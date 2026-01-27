@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-01-26",
+  "last_updated": "2026-01-27",
   "timezone": "Asia/Jakarta",
   "matches": [
     {
       "id": "TV_Shows_001",
       "time": "13:00",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "TV Shows",
       "competition": "TV Shows",
@@ -18,26 +18,26 @@
     },
     {
       "id": "TV_Shows_002",
-      "time": "14:00",
-      "date": "2026-01-26",
+      "time": "16:00",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "TV Shows",
       "competition": "TV Shows",
-      "match": "Golf Channel Podcast with Rex &amp; Lav Live",
+      "match": "9-1-1 There Goes the Groom Season 7, Episode 6",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "golf channel usa"
+        "e! usa"
       ]
     },
     {
       "id": "TV_Shows_003",
       "time": "20:00",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "TV Shows",
       "competition": "TV Shows",
-      "match": "The Kelly Clarkson Show Season 7, Episode 69",
+      "match": "The Kelly Clarkson Show Season 7, Episode 70",
       "region": "",
       "status": "upcoming",
       "channels": [
@@ -47,11 +47,11 @@
     {
       "id": "TV_Shows_004",
       "time": "20:00",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "TV Shows",
       "competition": "TV Shows",
-      "match": "General Hospital Season 63, Episode 92",
+      "match": "General Hospital Season 63, Episode 93",
       "region": "",
       "status": "upcoming",
       "channels": [
@@ -60,8 +60,50 @@
     },
     {
       "id": "TV_Shows_005",
+      "time": "20:30",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "TV Shows",
+      "competition": "TV Shows",
+      "match": "Vinyl Obsession The Podcast Season 1, Episode 15",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "axs tv usa"
+      ]
+    },
+    {
+      "id": "TV_Shows_006",
       "time": "22:00",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "TV Shows",
+      "competition": "TV Shows",
+      "match": "Wild at heart Season 2, Episode 6",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "outdoor channel usa"
+      ]
+    },
+    {
+      "id": "TV_Shows_007",
+      "time": "22:00",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "TV Shows",
+      "competition": "TV Shows",
+      "match": "Senior Bowl Practice Live",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "nfl network usa"
+      ]
+    },
+    {
+      "id": "TV_Shows_008",
+      "time": "22:00",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "TV Shows",
       "competition": "TV Shows",
@@ -73,27 +115,27 @@
       ]
     },
     {
-      "id": "TV_Shows_006",
+      "id": "TV_Shows_009",
       "time": "22:00",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "TV Shows",
       "competition": "TV Shows",
-      "match": "Bob's Burgers Season 9, Episode 5 • Live",
+      "match": "Triton Poker New",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "fxx usa"
+        "sportsnet pittsburgh"
       ]
     },
     {
-      "id": "TV_Shows_007",
+      "id": "TV_Shows_010",
       "time": "22:30",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "TV Shows",
       "competition": "TV Shows",
-      "match": "The VanDam Experience Season 2, Episode 5",
+      "match": "The Seahunter Season 11, Episode 3",
       "region": "",
       "status": "upcoming",
       "channels": [
@@ -101,13 +143,13 @@
       ]
     },
     {
-      "id": "TV_Shows_008",
+      "id": "TV_Shows_011",
       "time": "00:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "TV Shows",
       "competition": "TV Shows",
-      "match": "Jeopardy! Tournament of Champions Season 42, Episode 101",
+      "match": "Jeopardy! Tournament of Champions Season 42, Episode 102",
       "region": "",
       "status": "upcoming",
       "channels": [
@@ -115,13 +157,13 @@
       ]
     },
     {
-      "id": "TV_Shows_009",
+      "id": "TV_Shows_012",
       "time": "00:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "TV Shows",
       "competition": "TV Shows",
-      "match": "Family Feud Season 27, Episode 79",
+      "match": "Family Feud Season 27, Episode 81",
       "region": "",
       "status": "upcoming",
       "channels": [
@@ -129,69 +171,41 @@
       ]
     },
     {
-      "id": "TV_Shows_010",
-      "time": "00:30",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "TV Shows",
-      "competition": "TV Shows",
-      "match": "Wheel of Fortune Season 43, Episode 101",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "abc ny usa"
-      ]
-    },
-    {
-      "id": "TV_Shows_011",
-      "time": "01:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "TV Shows",
-      "competition": "TV Shows",
-      "match": "The Contenders 2026 Lionel Messi",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "altitude sports"
-      ]
-    },
-    {
-      "id": "TV_Shows_012",
-      "time": "01:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "TV Shows",
-      "competition": "TV Shows",
-      "match": "Armorsaurs Father's Day Season 1",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "disney xd"
-      ]
-    },
-    {
       "id": "TV_Shows_013",
-      "time": "01:00",
-      "date": "2026-01-27",
+      "time": "00:00",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "TV Shows",
       "competition": "TV Shows",
-      "match": "90 Day Fiancé: The Other Way Season 7, Episode 21",
+      "match": "Exatlón Estados Unidos Season 10, Episode 48",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "tlc usa"
+        "telemundo usa"
       ]
     },
     {
       "id": "TV_Shows_014",
       "time": "01:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "TV Shows",
       "competition": "TV Shows",
-      "match": "Contraband: Seized at the Border Season 8, Episode 2",
+      "match": "Caught in the Act: Unfaithful Season 4, Episode 15",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "mtv usa"
+      ]
+    },
+    {
+      "id": "TV_Shows_015",
+      "time": "01:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "TV Shows",
+      "competition": "TV Shows",
+      "match": "Moonshiners Season 15, Episode 4",
       "region": "",
       "status": "upcoming",
       "channels": [
@@ -199,98 +213,13 @@
       ]
     },
     {
-      "id": "TV_Shows_015",
-      "time": "01:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "TV Shows",
-      "competition": "TV Shows",
-      "match": "Baking Championship: Next Gen Season 1, Episode 4",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "the food network"
-      ]
-    },
-    {
       "id": "TV_Shows_016",
       "time": "01:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "TV Shows",
       "competition": "TV Shows",
-      "match": "Don't Hate Your House With the Property Brothers Season 2, Episode 5",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "hgtv usa"
-      ]
-    },
-    {
-      "id": "TV_Shows_017",
-      "time": "01:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "TV Shows",
-      "competition": "TV Shows",
-      "match": "Wild Cards Season 3, Episode 1 • Premiere",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "cw pix 11 usa"
-      ]
-    },
-    {
-      "id": "TV_Shows_018",
-      "time": "01:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "TV Shows",
-      "competition": "TV Shows",
-      "match": "American Idol 901 (Auditions) Season 24, Episode 1 • Premiere",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "abc ny usa",
-        "abc usa"
-      ]
-    },
-    {
-      "id": "TV_Shows_019",
-      "time": "01:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "TV Shows",
-      "competition": "TV Shows",
-      "match": "Extracted Season 2, Episode 1 • Premiere",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "foxny usa"
-      ]
-    },
-    {
-      "id": "TV_Shows_020",
-      "time": "01:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "TV Shows",
-      "competition": "TV Shows",
-      "match": "St. Denis Medical Season 2, Episode 11",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "nbcny usa"
-      ]
-    },
-    {
-      "id": "TV_Shows_021",
-      "time": "01:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "TV Shows",
-      "competition": "TV Shows",
-      "match": "Below Deck Mediterranean Season 10, Episode 18",
+      "match": "The Real Housewives of Salt Lake City Season 6, Episode 19",
       "region": "",
       "status": "upcoming",
       "channels": [
@@ -298,97 +227,167 @@
       ]
     },
     {
-      "id": "TV_Shows_022",
-      "time": "02:00",
-      "date": "2026-01-27",
+      "id": "TV_Shows_017",
+      "time": "01:00",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "TV Shows",
       "competition": "TV Shows",
-      "match": "The Wall Season 6, Episode 3",
+      "match": "Building Outside the Lines Season 3, Episode 6",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "nbcny usa"
+        "magnolia network"
+      ]
+    },
+    {
+      "id": "TV_Shows_018",
+      "time": "01:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "TV Shows",
+      "competition": "TV Shows",
+      "match": "Finding Your Roots With Henry Louis Gates, Jr. Season 12, Episode 4",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "pbs usa"
+      ]
+    },
+    {
+      "id": "TV_Shows_019",
+      "time": "01:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "TV Shows",
+      "competition": "TV Shows",
+      "match": "Will Trent Season 4, Episode 4",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "abc ny usa"
+      ]
+    },
+    {
+      "id": "TV_Shows_020",
+      "time": "01:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "TV Shows",
+      "competition": "TV Shows",
+      "match": "Harlan Coben's Final Twist Season 1, Episode 4",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "cbsny usa"
+      ]
+    },
+    {
+      "id": "TV_Shows_021",
+      "time": "01:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "TV Shows",
+      "competition": "TV Shows",
+      "match": "Best Medicine Season 1, Episode 4",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "foxny usa"
+      ]
+    },
+    {
+      "id": "TV_Shows_022",
+      "time": "01:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "TV Shows",
+      "competition": "TV Shows",
+      "match": "Chopped - impress end up on the chopping block New",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "the food network"
       ]
     },
     {
       "id": "TV_Shows_023",
       "time": "02:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "TV Shows",
       "competition": "TV Shows",
-      "match": "ACC Football Schedule Release Show Live",
+      "match": "33 Photos From the Ghetto New",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "acc network usa"
+        "hbo usa"
       ]
     },
     {
       "id": "TV_Shows_024",
       "time": "02:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "TV Shows",
       "competition": "TV Shows",
-      "match": "Fatal Attraction Season 16, Episode 25",
+      "match": "Doc Fare Well Season 2, Episode 13",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "tv one usa"
+        "foxny usa"
       ]
     },
     {
       "id": "TV_Shows_025",
       "time": "02:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "TV Shows",
       "competition": "TV Shows",
-      "match": "120 Hours Behind Bars Season 1, Episode 2",
+      "match": "High Potential Season 2, Episode 11",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "discovery usa"
+        "abc ny usa"
       ]
     },
     {
       "id": "TV_Shows_026",
       "time": "02:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "TV Shows",
       "competition": "TV Shows",
-      "match": "I Was a Teenage Felon The Charmer - Extended Cut Season 2",
+      "match": "American Masters Season 39, Episode 9",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "vice tv usa"
+        "pbs usa"
       ]
     },
     {
       "id": "TV_Shows_027",
       "time": "02:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "TV Shows",
       "competition": "TV Shows",
-      "match": "History's Greatest Mysteries Season 7, Episode 1 • Premiere",
+      "match": "Farmhouse Facelift Season 1, Episode 8",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "history usa"
+        "hgtv usa"
       ]
     },
     {
       "id": "TV_Shows_028",
       "time": "02:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "TV Shows",
       "competition": "TV Shows",
-      "match": "Live PD: Greatest Shifts Season 1, Episode 36",
+      "match": "Court Cam Season 9, Episode 17",
       "region": "",
       "status": "upcoming",
       "channels": [
@@ -398,123 +397,11 @@
     {
       "id": "TV_Shows_029",
       "time": "02:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "TV Shows",
       "competition": "TV Shows",
-      "match": "Maine Cabin Masters Season 12, Episode 6",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "magnolia network"
-      ]
-    },
-    {
-      "id": "TV_Shows_030",
-      "time": "02:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "TV Shows",
-      "competition": "TV Shows",
-      "match": "Memory of a Killer Season 1, Episode 2",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "foxny usa"
-      ]
-    },
-    {
-      "id": "TV_Shows_031",
-      "time": "03:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "TV Shows",
-      "competition": "TV Shows",
-      "match": "Brilliant Minds Season 2, Episode 13",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "nbcny usa"
-      ]
-    },
-    {
-      "id": "TV_Shows_032",
-      "time": "03:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "TV Shows",
-      "competition": "TV Shows",
-      "match": "The Rookie Season 8, Episode 4",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "abc ny usa"
-      ]
-    },
-    {
-      "id": "TV_Shows_033",
-      "time": "03:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "TV Shows",
-      "competition": "TV Shows",
-      "match": "Independent Lens Season 27, Episode 5",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "pbs usa"
-      ]
-    },
-    {
-      "id": "TV_Shows_034",
-      "time": "03:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "TV Shows",
-      "competition": "TV Shows",
-      "match": "Cake Toppers Season 1, Episode 9",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "fyi usa"
-      ]
-    },
-    {
-      "id": "TV_Shows_035",
-      "time": "03:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "TV Shows",
-      "competition": "TV Shows",
-      "match": "History's Deadliest With Ving Rhames Season 1, Episode 1 • Premiere",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "history usa"
-      ]
-    },
-    {
-      "id": "TV_Shows_036",
-      "time": "03:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "TV Shows",
-      "competition": "TV Shows",
-      "match": "Devoured Deli Wars - Extended Cut Season 1",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "vice tv usa"
-      ]
-    },
-    {
-      "id": "TV_Shows_037",
-      "time": "03:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "TV Shows",
-      "competition": "TV Shows",
-      "match": "The Curious Case of... Season 2, Episode 3",
+      "match": "Evil Lives Here Season 19, Episode 3",
       "region": "",
       "status": "upcoming",
       "channels": [
@@ -522,27 +409,153 @@
       ]
     },
     {
-      "id": "TV_Shows_038",
-      "time": "03:00",
-      "date": "2026-01-27",
+      "id": "TV_Shows_030",
+      "time": "02:00",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "TV Shows",
       "competition": "TV Shows",
-      "match": "Fatal Attraction: I'd Kill To Be You Season 1, Episode 1 • Premiere",
+      "match": "The Curse of Oak Island Season 13, Episode 13",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "tv one usa"
+        "history usa"
+      ]
+    },
+    {
+      "id": "TV_Shows_031",
+      "time": "02:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "TV Shows",
+      "competition": "TV Shows",
+      "match": "Don't Call It a Comeback Season 1",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "vice tv usa"
+      ]
+    },
+    {
+      "id": "TV_Shows_032",
+      "time": "02:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "TV Shows",
+      "competition": "TV Shows",
+      "match": "Pole to Pole With Will Smith Season 1, Episode 5",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "national geographic (ngc)"
+      ]
+    },
+    {
+      "id": "TV_Shows_033",
+      "time": "02:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "TV Shows",
+      "competition": "TV Shows",
+      "match": "Moonshiners: Master DistillerSeason 8, Episode 1 • Premiere",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "discovery usa"
+      ]
+    },
+    {
+      "id": "TV_Shows_034",
+      "time": "02:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "TV Shows",
+      "competition": "TV Shows",
+      "match": "1000-lb Sisters Season 8, Episode 4",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "tlc usa"
+      ]
+    },
+    {
+      "id": "TV_Shows_035",
+      "time": "02:15",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "TV Shows",
+      "competition": "TV Shows",
+      "match": "Vanderpump Rules Season 12, Episode 8",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "bravo usa"
+      ]
+    },
+    {
+      "id": "TV_Shows_036",
+      "time": "03:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "TV Shows",
+      "competition": "TV Shows",
+      "match": "Booked: First Day In Season 4, Episode 3",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "a&amp;e tv usa"
+      ]
+    },
+    {
+      "id": "TV_Shows_037",
+      "time": "03:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "TV Shows",
+      "competition": "TV Shows",
+      "match": "Suddenly Amish Season 1, Episode 3",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "discovery usa"
+      ]
+    },
+    {
+      "id": "TV_Shows_038",
+      "time": "03:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "TV Shows",
+      "competition": "TV Shows",
+      "match": "Killer Confessions: Case Files of a Texas Ranger Season 1, Episode 3",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "id usa"
       ]
     },
     {
       "id": "TV_Shows_039",
-      "time": "04:30",
-      "date": "2026-01-27",
+      "time": "03:30",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "TV Shows",
       "competition": "TV Shows",
-      "match": "Jimmy Kimmel Live! Season 24, Episode 64",
+      "match": "House Hunters International Season 203, Episode 11",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "hgtv usa"
+      ]
+    },
+    {
+      "id": "TV_Shows_040",
+      "time": "04:30",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "TV Shows",
+      "competition": "TV Shows",
+      "match": "Jimmy Kimmel Live! Season 24, Episode 65",
       "region": "",
       "status": "upcoming",
       "channels": [
@@ -550,13 +563,336 @@
       ]
     },
     {
-      "id": "Soccer_001",
-      "time": "11:00",
+      "id": "England___League_One_League_Two_001",
+      "time": "19:30",
       "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
+      "sport": "England - League One/League Two",
+      "competition": "England - League Two",
+      "match": "Newport County vs Accrington Stanley",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "sky sports+"
+      ]
+    },
+    {
+      "id": "England___League_One_League_Two_002",
+      "time": "19:45",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "England - League One/League Two",
+      "competition": "England - League One",
+      "match": "Huddersfield Town vs Luton Town",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "sky sports+"
+      ]
+    },
+    {
+      "id": "England___League_One_League_Two_003",
+      "time": "19:45",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "England - League One/League Two",
+      "competition": "England - League One",
+      "match": "Blackpool vs Stockport County",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "sky sports+"
+      ]
+    },
+    {
+      "id": "England___League_One_League_Two_004",
+      "time": "19:45",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "England - League One/League Two",
+      "competition": "England - League One",
+      "match": "Lincoln City vs Bradford City",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "sky sports+"
+      ]
+    },
+    {
+      "id": "England___League_One_League_Two_005",
+      "time": "19:45",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "England - League One/League Two",
+      "competition": "England - League One",
+      "match": "Plymouth Argyle vs Mansfield Town",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "sky sports+"
+      ]
+    },
+    {
+      "id": "England___League_One_League_Two_006",
+      "time": "19:45",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "England - League One/League Two",
+      "competition": "England - League One",
+      "match": "Port Vale vs AFC Wimbledon",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "sky sports+"
+      ]
+    },
+    {
+      "id": "England___League_One_League_Two_007",
+      "time": "19:45",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "England - League One/League Two",
+      "competition": "England - League One",
+      "match": "Wycombe Wanderers vs Wigan Athletic",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "sky sports+"
+      ]
+    },
+    {
+      "id": "England___League_One_League_Two_008",
+      "time": "19:45",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "England - League One/League Two",
+      "competition": "England - League One",
+      "match": "Bolton Wanderers vs Burton Albion",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "sky sports+"
+      ]
+    },
+    {
+      "id": "England___League_One_League_Two_009",
+      "time": "19:45",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "England - League One/League Two",
+      "competition": "England - League One",
+      "match": "Cardiff City vs Barnsley",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "sky sports+",
+        "sky sports+"
+      ]
+    },
+    {
+      "id": "England___League_One_League_Two_010",
+      "time": "19:45",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "England - League One/League Two",
+      "competition": "England - League One",
+      "match": "Rotherham United vs Northampton Town",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "sky sports+"
+      ]
+    },
+    {
+      "id": "England___League_One_League_Two_011",
+      "time": "19:45",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "England - League One/League Two",
+      "competition": "England - League One",
+      "match": "Stevenage vs Peterborough United",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "sky sports+"
+      ]
+    },
+    {
+      "id": "England___League_One_League_Two_012",
+      "time": "20:00",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "England - League One/League Two",
+      "competition": "England - League One",
+      "match": "Reading vs Exeter City",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "sky sports+"
+      ]
+    },
+    {
+      "id": "England___League_One_League_Two_013",
+      "time": "19:45",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "England - League One/League Two",
+      "competition": "England - League Two",
+      "match": "Barrow vs Oldham Athletic",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "sky sports+"
+      ]
+    },
+    {
+      "id": "England___League_One_League_Two_014",
+      "time": "19:45",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "England - League One/League Two",
+      "competition": "England - League Two",
+      "match": "Cheltenham Town vs Gillingham",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "sky sports+"
+      ]
+    },
+    {
+      "id": "England___League_One_League_Two_015",
+      "time": "19:45",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "England - League One/League Two",
+      "competition": "England - League Two",
+      "match": "Notts County vs Swindon Town",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "sky sports+"
+      ]
+    },
+    {
+      "id": "England___League_One_League_Two_016",
+      "time": "19:45",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "England - League One/League Two",
+      "competition": "England - League Two",
+      "match": "Harrogate Town vs Fleetwood Town",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "sky sports+"
+      ]
+    },
+    {
+      "id": "England___League_One_League_Two_017",
+      "time": "19:45",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "England - League One/League Two",
+      "competition": "England - League Two",
+      "match": "Milton Keynes Dons vs Bristol Rovers",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "sky sports+"
+      ]
+    },
+    {
+      "id": "England___League_One_League_Two_018",
+      "time": "19:45",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "England - League One/League Two",
+      "competition": "England - League Two",
+      "match": "Cambridge United vs Shrewsbury Town",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "sky sports+"
+      ]
+    },
+    {
+      "id": "England___League_One_League_Two_019",
+      "time": "19:45",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "England - League One/League Two",
+      "competition": "England - League Two",
+      "match": "Colchester United vs Grimsby Town",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "sky sports+"
+      ]
+    },
+    {
+      "id": "England___League_One_League_Two_020",
+      "time": "19:45",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "England - League One/League Two",
+      "competition": "England - League Two",
+      "match": "Barnet vs Tranmere Rovers",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "sky sports+"
+      ]
+    },
+    {
+      "id": "England___League_One_League_Two_021",
+      "time": "19:45",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "England - League One/League Two",
+      "competition": "England - League Two",
+      "match": "Bromley vs Crewe Alexandra",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "sky sports+"
+      ]
+    },
+    {
+      "id": "England___League_One_League_Two_022",
+      "time": "19:45",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "England - League One/League Two",
+      "competition": "England - League Two",
+      "match": "Salford City vs Chesterfield",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "sky sports+"
+      ]
+    },
+    {
+      "id": "England___League_One_League_Two_023",
+      "time": "19:45",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "England - League One/League Two",
+      "competition": "England - League Two",
+      "match": "Walsall vs Crawley Town",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "sky sports+"
+      ]
+    },
+    {
+      "id": "All_Soccer_Events_001",
+      "time": "11:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "All Soccer Events",
       "competition": "Portugal - Liga Revelação",
-      "match": "Torreense U23 vs Leixões U23",
+      "match": "Benfica U23 vs Santa Clara U23",
       "region": "Portugal",
       "status": "upcoming",
       "channels": [
@@ -564,42 +900,13 @@
       ]
     },
     {
-      "id": "Soccer_002",
-      "time": "12:00",
-      "date": "2026-01-26",
+      "id": "All_Soccer_Events_002",
+      "time": "11:00",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Indonesia - Super League",
-      "match": "Dewa United vs Arema",
-      "region": "Indonesia",
-      "status": "upcoming",
-      "channels": [
-        "indosiar"
-      ]
-    },
-    {
-      "id": "Soccer_003",
-      "time": "14:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Club Friendly",
-      "match": "Dynamo Moscow (Rus) vs Chengdu Rongcheng (Chn)",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "match tv russia",
-        "match premier russia"
-      ]
-    },
-    {
-      "id": "Soccer_004",
-      "time": "15:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
+      "sport": "All Soccer Events",
       "competition": "Portugal - Liga Revelação",
-      "match": "Sporting Braga U23 vs Sporting CP U23",
+      "match": "Portimonense U23 vs Gil Vicente U23",
       "region": "Portugal",
       "status": "upcoming",
       "channels": [
@@ -607,194 +914,111 @@
       ]
     },
     {
-      "id": "Soccer_005",
+      "id": "All_Soccer_Events_003",
+      "time": "13:00",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "All Soccer Events",
+      "competition": "England - U18 Premier League",
+      "match": "Burnley U18 vs Manchester United U18",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "mutv uk"
+      ]
+    },
+    {
+      "id": "All_Soccer_Events_004",
+      "time": "13:15",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "All Soccer Events",
+      "competition": "United Arab Emirates - UAE Pro League",
+      "match": "Al Ittihad Kalba vs Al Ain",
+      "region": "United Arab Emirates",
+      "status": "upcoming",
+      "channels": [
+        "abu dhabi sports 1"
+      ]
+    },
+    {
+      "id": "All_Soccer_Events_005",
       "time": "15:00",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Romania - Liga I",
-      "match": "Oţelul vs Csikszereda",
-      "region": "Romania",
+      "sport": "All Soccer Events",
+      "competition": "Egypt - Egyptian Premier League",
+      "match": "Al Ahly vs Wadi Degla",
+      "region": "Egypt",
       "status": "upcoming",
       "channels": [
-        "digi sport 1 romania",
-        "prima sport 1 romania",
-        "arena sport 2 croatia"
+        "ontime sports"
       ]
     },
     {
-      "id": "Soccer_006",
+      "id": "All_Soccer_Events_006",
       "time": "15:00",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Croatia - 1. HNL",
-      "match": "Gorica vs Varaždin",
-      "region": "Croatia",
+      "sport": "All Soccer Events",
+      "competition": "Portugal - Liga Revelação",
+      "match": "Famalicão U23 vs Academico Viseu U23",
+      "region": "Portugal",
       "status": "upcoming",
       "channels": [
-        "max sport 1 croatia"
+        "canal 11 portugal"
       ]
     },
     {
-      "id": "Soccer_007",
-      "time": "15:20",
-      "date": "2026-01-26",
+      "id": "All_Soccer_Events_007",
+      "time": "15:30",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Saudi Arabia - Pro League",
-      "match": "Al Hazm vs Damac",
-      "region": "Saudi Arabia",
+      "sport": "All Soccer Events",
+      "competition": "South Africa - DStv Premiership",
+      "match": "Golden Arrows vs Stellenbosch",
+      "region": "South Africa",
       "status": "upcoming",
       "channels": [
-        "thmanyah"
+        "supersport psl"
       ]
     },
     {
-      "id": "Soccer_008",
-      "time": "17:00",
-      "date": "2026-01-26",
+      "id": "All_Soccer_Events_008",
+      "time": "16:00",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Turkey - Super Lig",
-      "match": "Eyüpspor vs Beşiktaş",
-      "region": "Turkey",
+      "sport": "All Soccer Events",
+      "competition": "United Arab Emirates - UAE Pro League",
+      "match": "Al Wahda vs Dibba Al Fujairah",
+      "region": "United Arab Emirates",
       "status": "upcoming",
       "channels": [
-        "bein sports 1 turkey",
-        "bein sports usa",
-        "bein sports en español",
-        "sport tv3 portugal",
-        "sport tv6 portugal",
-        "bein sports 3 malaysia",
-        "bein sports max 4 france",
-        "match! football 3 russia",
-        "fox sports argentina",
-        "sportklub 2 croatia",
-        "sport 3 israel"
+        "abu dhabi sports 1"
       ]
     },
     {
-      "id": "Soccer_009",
-      "time": "17:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Israel - Liga Leumit",
-      "match": "Hapoel Ra'anana vs Hapoel Kfar Saba",
-      "region": "Israel",
-      "status": "upcoming",
-      "channels": [
-        "5 live israel"
-      ]
-    },
-    {
-      "id": "Soccer_010",
-      "time": "17:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Israel - Liga Leumit",
-      "match": "Ironi Modi'in vs Maccabi Herzliya",
-      "region": "Israel",
-      "status": "upcoming",
-      "channels": [
-        "5stars israel"
-      ]
-    },
-    {
-      "id": "Soccer_011",
-      "time": "17:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Israel - Liga Leumit",
-      "match": "Maccabi Petah Tikva vs Hapoel Hadera",
-      "region": "Israel",
-      "status": "upcoming",
-      "channels": [
-        "5plus israel"
-      ]
-    },
-    {
-      "id": "Soccer_012",
-      "time": "17:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Turkey - 1. Lig",
-      "match": "Sakaryaspor vs Bodrumspor",
-      "region": "Turkey",
-      "status": "upcoming",
-      "channels": [
-        "trt spor turkey",
-        "bein sports 2 turkey"
-      ]
-    },
-    {
-      "id": "Soccer_013",
+      "id": "All_Soccer_Events_009",
       "time": "17:30",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Saudi Arabia - Pro League",
-      "match": "Al Nassr vs Al Taawon",
-      "region": "Saudi Arabia",
+      "sport": "All Soccer Events",
+      "competition": "South Africa - DStv Premiership",
+      "match": "Sekhukhune United vs Mamelodi Sundowns",
+      "region": "South Africa",
       "status": "upcoming",
       "channels": [
-        "thmanyah",
-        "fox sports 2 usa",
-        "dazn2 de",
-        "sportdigital fussball de",
-        "movistar liga de campeones",
-        "sport tv1 portugal",
-        "sportv br",
-        "polsat sport 2 poland",
-        "prima sport 2 romania",
-        "fox deportes",
-        "cosmote sport 1 greece",
-        "sportklub 1 croatia",
-        "max sport 3 bulgaria"
+        "supersport psl"
       ]
     },
     {
-      "id": "Soccer_014",
-      "time": "17:30",
-      "date": "2026-01-26",
+      "id": "All_Soccer_Events_010",
+      "time": "19:00",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Saudi Arabia - Pro League",
-      "match": "Al Ittihad vs Al Akhdoud",
-      "region": "Saudi Arabia",
-      "status": "upcoming",
-      "channels": [
-        "thmanyah"
-      ]
-    },
-    {
-      "id": "Soccer_015",
-      "time": "18:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Romania - Liga I",
-      "match": "UTA Arad vs Rapid Bucureşti",
-      "region": "Romania",
-      "status": "upcoming",
-      "channels": [
-        "digi sport 1 romania",
-        "prima sport 1 romania",
-        "arena sport 2 croatia"
-      ]
-    },
-    {
-      "id": "Soccer_016",
-      "time": "18:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
+      "sport": "All Soccer Events",
       "competition": "CONCACAF Women's U-17 Championship",
-      "match": "Suriname U17 vs Panama U17",
+      "match": "St. Vincent &amp; The Grenadine U17 vs Honduras U17",
       "region": "CONCACAF Women's U",
       "status": "upcoming",
       "channels": [
@@ -802,386 +1026,194 @@
       ]
     },
     {
-      "id": "Soccer_017",
-      "time": "18:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Portugal - Segunda liga",
-      "match": "União de Leiria vs Sporting CP II",
-      "region": "Portugal",
-      "status": "upcoming",
-      "channels": [
-        "sport tv4 portugal"
-      ]
-    },
-    {
-      "id": "Soccer_018",
-      "time": "18:30",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Israel - Ligat Ha'Al",
-      "match": "Maccabi Tel Aviv vs Hapoel Tel Aviv",
-      "region": "Israel",
-      "status": "upcoming",
-      "channels": [
-        "5sport israel"
-      ]
-    },
-    {
-      "id": "Soccer_019",
+      "id": "All_Soccer_Events_011",
       "time": "19:00",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
+      "sport": "All Soccer Events",
       "competition": "Netherlands - Eerste Divisie",
-      "match": "ADO Den Haag vs Vitesse",
+      "match": "Emmen vs Cambuur",
       "region": "Netherlands",
       "status": "upcoming",
       "channels": [
-        "espn 2 nl"
-      ]
-    },
-    {
-      "id": "Soccer_020",
-      "time": "19:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Netherlands - Eerste Divisie",
-      "match": "De Graafschap vs Den Bosch",
-      "region": "Netherlands",
-      "status": "upcoming",
-      "channels": [
+        "espn 1 nl",
         "espn 3 nl"
       ]
     },
     {
-      "id": "Soccer_021",
-      "time": "19:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Netherlands - Eerste Divisie",
-      "match": "Roda JC vs VVV",
-      "region": "Netherlands",
-      "status": "upcoming",
-      "channels": [
-        "espn 4 nl"
-      ]
-    },
-    {
-      "id": "Soccer_022",
-      "time": "19:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Netherlands - Eerste Divisie",
-      "match": "RKC Waalwijk vs Utrecht II",
-      "region": "Netherlands",
-      "status": "upcoming",
-      "channels": [
-        "espn 1 nl"
-      ]
-    },
-    {
-      "id": "Soccer_023",
+      "id": "All_Soccer_Events_012",
       "time": "19:30",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Spain - Segunda Division",
-      "match": "Ceuta vs Cultural Leonesa",
-      "region": "Spain",
+      "sport": "All Soccer Events",
+      "competition": "Germany - Bundesliga",
+      "match": "Multiview",
+      "region": "Germany",
       "status": "upcoming",
       "channels": [
-        "laliga tv hypermotion",
-        "nova sport 3 sk",
-        "nova sport 3 cz",
-        "arena sport 1x2 serbia",
-        "match! football 3 russia",
-        "bein sports 2 malaysia",
-        "nova sports start greece",
-        "max sport 2 bulgaria",
-        "bein sports mena 5"
+        "sky sport bundesliga 3"
       ]
     },
     {
-      "id": "Soccer_024",
+      "id": "All_Soccer_Events_013",
       "time": "19:30",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Italy - Serie C",
-      "match": "Vicenza vs Cittadella",
-      "region": "Italy",
+      "sport": "All Soccer Events",
+      "competition": "Germany - Bundesliga",
+      "match": "Simulcast",
+      "region": "Germany",
       "status": "upcoming",
       "channels": [
-        "sky sport 252 it",
-        "sky sport max it",
-        "rai sport 1 it"
+        "dazn1 de",
+        "espn+ usa"
       ]
     },
     {
-      "id": "Soccer_025",
+      "id": "All_Soccer_Events_014",
       "time": "19:30",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Italy - Serie C",
-      "match": "Lecco vs Inter II",
-      "region": "Italy",
+      "sport": "All Soccer Events",
+      "competition": "Germany - Bundesliga",
+      "match": "St. Pauli vs RB Leipzig",
+      "region": "Germany",
       "status": "upcoming",
       "channels": [
-        "sky sport 253 it",
-        "sky sport uno it"
-      ]
-    },
-    {
-      "id": "Soccer_026",
-      "time": "19:45",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "France - Ligue 2",
-      "match": "Le Mans vs Dunkerque",
-      "region": "France",
-      "status": "upcoming",
-      "channels": [
-        "bein sports 2 france"
-      ]
-    },
-    {
-      "id": "Soccer_027",
-      "time": "19:45",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Italy - Serie A",
-      "match": "Verona vs Udinese",
-      "region": "Italy",
-      "status": "upcoming",
-      "channels": [
-        "sky sport 251 it",
-        "sky sport calcio it",
-        "paramount+",
-        "dazn2 de",
-        "sport tv3 portugal",
+        "sky sport bundesliga 1",
+        "espn+ usa",
+        "dazn eleven 2 portugal",
         "eleven sports 1 poland",
-        "match! football 1 russia",
+        "bein sports 2 france",
+        "nova sport 5 cz",
+        "nova sport 5 sk",
+        "sky sport calcio it",
         "digi sport 2 romania",
-        "prima sport 3 romania",
-        "fox deportes",
-        "cosmote sport 2 greece",
-        "match tv russia",
-        "tv2 sport x denmark",
-        "arena sport 4 croatia",
-        "tv4 fotball",
-        "max sport 3 bulgaria",
-        "supersport football",
-        "sport 3 israel"
-      ]
-    },
-    {
-      "id": "Soccer_028",
-      "time": "20:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "England - Premier League",
-      "match": "Everton vs Leeds United",
-      "region": "England",
-      "status": "upcoming",
-      "channels": [
-        "hub premier",
-        "peacock feed",
-        "usa network",
-        "sky sports main event uk",
-        "sky sports premier league uk",
-        "sky sport 8 nz",
-        "bein sports 3 turkey",
-        "dazn1 spain",
-        "sky sport premier league de",
-        "sky sport top event de",
-        "canal+ sport cz",
-        "canal+ sport sk",
-        "dazn eleven 1 portugal",
-        "canal+ extra 1 poland",
-        "canal+ foot france",
-        "sky sport arena it",
-        "canal+ sport 3 afrique",
-        "astro premier league",
-        "astro grandstand",
-        "arena 2 premium serbia",
-        "nova sports premier league greece",
-        "arena sport 2 croatia",
-        "see denmark",
+        "nova sports 2 greece",
+        "bein sports 3 malaysia",
+        "tv3 sport denmark",
         "v sport premium",
-        "diema sport 2 bulgaria",
-        "espn2 argentina",
-        "supersport maximo 1",
-        "supersport premier league",
-        "supersport grandstand",
-        "bein sports mena 1",
-        "bein sports mena english 1",
+        "diema sport 3 bulgaria",
+        "sportklub 3 croatia",
         "sport 1 israel"
       ]
     },
     {
-      "id": "Soccer_029",
-      "time": "20:00",
-      "date": "2026-01-26",
+      "id": "All_Soccer_Events_015",
+      "time": "19:30",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Spain - La Liga",
-      "match": "Girona vs Getafe",
-      "region": "Spain",
+      "sport": "All Soccer Events",
+      "competition": "Germany - Bundesliga",
+      "match": "Werder Bremen vs Hoffenheim",
+      "region": "Germany",
       "status": "upcoming",
       "channels": [
-        "m+ laliga tv",
-        "laliga tv uk",
-        "viaplay sports 1 uk",
-        "premier sports 1 ireland",
-        "dazn1 de",
-        "nova sport 4 sk",
-        "nova sport 4 cz",
-        "dazn eleven 2 portugal",
-        "eleven sports 3 poland",
-        "bein sports max 4 france",
-        "match! football 2 russia",
-        "ziggo sport 2 nl",
-        "prima sport 2 romania",
-        "digi sport 4 romania",
-        "espn deportes",
-        "bein sports malaysia",
-        "arena 1 premium serbia",
-        "nova sports 1 greece",
-        "arena sport 3 croatia",
-        "tv4 sport live 1",
-        "espn3 argentina",
-        "max sport 4 bulgaria",
-        "supersport laliga",
-        "bein sports mena 3"
-      ]
-    },
-    {
-      "id": "Soccer_030",
-      "time": "20:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "England - Championship",
-      "match": "Norwich City vs Coventry City",
-      "region": "England",
-      "status": "upcoming",
-      "channels": [
-        "sky sports football uk",
-        "sport tv6 portugal",
-        "bein sports max 6 france",
-        "astro football",
-        "bein sports max 5 france",
-        "nova sport 5 cz",
-        "espn2 mexico",
-        "cosmote sport 3 greece",
-        "v sport football",
-        "diema sport 3 bulgaria",
-        "fox sports 2 argentina",
-        "espn4 brazil",
-        "nova sport 5 sk",
-        "bein sports mena 2",
-        "bein sports mena english 2"
-      ]
-    },
-    {
-      "id": "Soccer_031",
-      "time": "20:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Brazil - Campeonato Carioca 1",
-      "match": "Madureira vs Portuguesa RJ",
-      "region": "Brazil",
-      "status": "upcoming",
-      "channels": [
-        "premiere br"
-      ]
-    },
-    {
-      "id": "Soccer_032",
-      "time": "20:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "CONCACAF Women's U-17 Championship",
-      "match": "Guadeloupe U17 vs Trinidad and Tobago U17",
-      "region": "CONCACAF Women's U",
-      "status": "upcoming",
-      "channels": [
-        "fox sports 2 usa"
-      ]
-    },
-    {
-      "id": "Soccer_033",
-      "time": "20:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Argentina - Primera División",
-      "match": "Platense vs Instituto",
-      "region": "Argentina",
-      "status": "upcoming",
-      "channels": [
-        "espn premium argentina",
-        "espn argentina"
-      ]
-    },
-    {
-      "id": "Soccer_034",
-      "time": "20:15",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Portugal - Primeira Liga",
-      "match": "Porto vs Gil Vicente",
-      "region": "Portugal",
-      "status": "upcoming",
-      "channels": [
-        "sport tv1 portugal",
-        "bein sports 3 france",
-        "sportdigital fussball de",
+        "sky sport bundesliga 2",
+        "espn+ usa",
+        "sky sport top event de",
+        "dazn eleven 1 portugal",
         "eleven sports 2 poland",
-        "ziggo sport 3 nl",
+        "bein sports 3 france",
+        "nova sport 3 sk",
+        "nova sport 3 cz",
+        "digi sport 3 romania",
         "arena sport 1 serbia",
-        "cosmote sport 1 greece",
-        "ring bg",
-        "espn brazil",
+        "nova sports 3 greece",
+        "v sport football",
+        "diema sport bulgaria",
         "sportklub 1 croatia",
         "sport 2 israel"
       ]
     },
     {
-      "id": "Soccer_035",
-      "time": "23:00",
-      "date": "2026-01-26",
+      "id": "All_Soccer_Events_016",
+      "time": "19:45",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Brazil - Campeonato Paulista A1",
-      "match": "Portuguesa vs Guarani",
-      "region": "Brazil",
+      "sport": "All Soccer Events",
+      "competition": "Scotland - Scottish Challenge Cup",
+      "match": "Queen's Park vs Raith Rovers",
+      "region": "Scotland",
       "status": "upcoming",
       "channels": [
-        "tnt brasil"
+        "premier sports 2 ireland"
       ]
     },
     {
-      "id": "Soccer_036",
-      "time": "22:00",
-      "date": "2026-01-26",
+      "id": "All_Soccer_Events_017",
+      "time": "19:45",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
+      "sport": "All Soccer Events",
+      "competition": "Scotland - Scottish Challenge Cup",
+      "match": "St. Johnstone vs Ayr United",
+      "region": "Scotland",
+      "status": "upcoming",
+      "channels": [
+        "bbc alba"
+      ]
+    },
+    {
+      "id": "All_Soccer_Events_018",
+      "time": "20:00",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "All Soccer Events",
+      "competition": "Italy - Coppa Italia",
+      "match": "Fiorentina vs Como",
+      "region": "Italy",
+      "status": "upcoming",
+      "channels": [
+        "italia 1 it",
+        "cbs sports golazo usa",
+        "paramaount+",
+        "viaplay sports 1 uk",
+        "premier sports 1 ireland",
+        "dazn1 spain",
+        "match! football 1 russia",
+        "sport tv2 portugal",
+        "eleven sports 3 poland",
+        "polsat sport 3 poland",
+        "ziggo sport 2 nl",
+        "arena sport 2 serbia",
+        "nova sports prime greece",
+        "arena sport 1 croatia",
+        "max sport 3 bulgaria",
+        "sport 4 israel"
+      ]
+    },
+    {
+      "id": "All_Soccer_Events_019",
+      "time": "20:00",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "All Soccer Events",
+      "competition": "England - League One",
+      "match": "Doncaster Rovers vs Leyton Orient",
+      "region": "England",
+      "status": "upcoming",
+      "channels": [
+        "sky sports football uk",
+        "astro football",
+        "sky sports main event uk",
+        "nova sport 4 sk",
+        "arena sport 1x2 serbia",
+        "nova sport 4 cz",
+        "cosmote sport 3 greece",
+        "diema sport 2 bulgaria",
+        "bein sports mena 2",
+        "bein sports mena english 2"
+      ]
+    },
+    {
+      "id": "All_Soccer_Events_020",
+      "time": "20:00",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "All Soccer Events",
       "competition": "CONCACAF Women's U-17 Championship",
-      "match": "US Virgin Islands U17 vs Dominican Republic U17",
+      "match": "Antigua &amp; Barbuda U17 vs Guatemala U17",
       "region": "CONCACAF Women's U",
       "status": "upcoming",
       "channels": [
@@ -1189,27 +1221,13 @@
       ]
     },
     {
-      "id": "Soccer_037",
-      "time": "23:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "CONCACAF Women's U-17 Championship",
-      "match": "Barbados U17 vs El Salvador U17",
-      "region": "CONCACAF Women's U",
-      "status": "upcoming",
-      "channels": [
-        "fox soccer plus"
-      ]
-    },
-    {
-      "id": "Soccer_038",
-      "time": "00:30",
+      "id": "All_Soccer_Events_021",
+      "time": "20:00",
       "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
+      "sport": "All Soccer Events",
       "competition": "Brazil - Campeonato Carioca 1",
-      "match": "Nova Iguaçu vs Volta Redonda",
+      "match": "Maricá vs Sampaio Corrêa RJ",
       "region": "Brazil",
       "status": "upcoming",
       "channels": [
@@ -1217,27 +1235,31 @@
       ]
     },
     {
-      "id": "Soccer_039",
-      "time": "01:00",
+      "id": "All_Soccer_Events_022",
+      "time": "20:45",
       "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "CONCACAF Women's U-17 Championship",
-      "match": "Dominica U17 vs Nicaragua U17",
-      "region": "CONCACAF Women's U",
+      "sport": "All Soccer Events",
+      "competition": "Argentina - Primera División",
+      "match": "Vélez Sarsfield vs Talleres Córdoba",
+      "region": "Argentina",
       "status": "upcoming",
       "channels": [
-        "fox soccer plus"
+        "espn premium argentina",
+        "#vamos es",
+        "arena sport 3 serbia",
+        "arena sport 2 croatia",
+        "ovistar liga de campeones"
       ]
     },
     {
-      "id": "Soccer_040",
-      "time": "01:00",
+      "id": "All_Soccer_Events_023",
+      "time": "21:00",
       "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
+      "sport": "All Soccer Events",
       "competition": "Colombia - Primera A",
-      "match": "Atlético Nacional vs Jaguares de Córdoba",
+      "match": "Cúcuta Deportivo vs Atlético Bucaramanga",
       "region": "Colombia",
       "status": "upcoming",
       "channels": [
@@ -1245,93 +1267,333 @@
       ]
     },
     {
-      "id": "Soccer_041",
-      "time": "02:00",
+      "id": "All_Soccer_Events_024",
+      "time": "22:00",
       "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
-      "sport": "Soccer",
-      "competition": "Costa Rica - Primera Division",
-      "match": "Pérez Zeledón vs Sporting San José",
-      "region": "Costa Rica",
+      "sport": "All Soccer Events",
+      "competition": "CONCACAF Women's U-17 Championship",
+      "match": "British Virgin Islands U17 vs Cuba U17",
+      "region": "CONCACAF Women's U",
       "status": "upcoming",
       "channels": [
-        "futv"
+        "fox sports 2 usa"
+      ]
+    },
+    {
+      "id": "All_Soccer_Events_025",
+      "time": "23:00",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "All Soccer Events",
+      "competition": "Argentina - Primera División",
+      "match": "Huracán vs Independiente Rivadavia",
+      "region": "Argentina",
+      "status": "upcoming",
+      "channels": [
+        "espn premium argentina"
+      ]
+    },
+    {
+      "id": "All_Soccer_Events_026",
+      "time": "23:00",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "All Soccer Events",
+      "competition": "Argentina - Primera División",
+      "match": "Gimnasia Mendoza vs San Lorenzo",
+      "region": "Argentina",
+      "status": "upcoming",
+      "channels": [
+        "tnt sports argentina"
+      ]
+    },
+    {
+      "id": "All_Soccer_Events_027",
+      "time": "23:00",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "All Soccer Events",
+      "competition": "CONCACAF Women's U-17 Championship",
+      "match": "St. Lucia U17 vs Haiti U17",
+      "region": "CONCACAF Women's U",
+      "status": "upcoming",
+      "channels": [
+        "fox soccer plus"
+      ]
+    },
+    {
+      "id": "All_Soccer_Events_028",
+      "time": "23:20",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "All Soccer Events",
+      "competition": "Colombia - Primera A",
+      "match": "Fortaleza CEIF vs Llaneros",
+      "region": "Colombia",
+      "status": "upcoming",
+      "channels": [
+        "win+ futbol colombia"
+      ]
+    },
+    {
+      "id": "All_Soccer_Events_029",
+      "time": "00:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "All Soccer Events",
+      "competition": "CONCACAF Women's U-17 Championship",
+      "match": "Aruba U17 vs Jamaica U17",
+      "region": "CONCACAF Women's U",
+      "status": "upcoming",
+      "channels": [
+        "fox sports 2 usa"
+      ]
+    },
+    {
+      "id": "All_Soccer_Events_030",
+      "time": "01:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "All Soccer Events",
+      "competition": "CONCACAF Women's U-17 Championship",
+      "match": "Anguilla U17 vs Costa Rica U17",
+      "region": "CONCACAF Women's U",
+      "status": "upcoming",
+      "channels": [
+        "fox soccer plus"
+      ]
+    },
+    {
+      "id": "All_Soccer_Events_031",
+      "time": "01:15",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "All Soccer Events",
+      "competition": "Argentina - Primera División",
+      "match": "Newell's Old Boys vs Independiente",
+      "region": "Argentina",
+      "status": "upcoming",
+      "channels": [
+        "tnt sports argentina"
+      ]
+    },
+    {
+      "id": "All_Soccer_Events_032",
+      "time": "01:15",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "All Soccer Events",
+      "competition": "Argentina - Primera División",
+      "match": "Atlético Tucumán vs Central Córdoba SdE",
+      "region": "Argentina",
+      "status": "upcoming",
+      "channels": [
+        "espn argentina",
+        "espn premium argentina"
+      ]
+    },
+    {
+      "id": "All_Soccer_Events_033",
+      "time": "01:30",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "All Soccer Events",
+      "competition": "Colombia - Primera A",
+      "match": "Medellín vs Deportes Tolima",
+      "region": "Colombia",
+      "status": "upcoming",
+      "channels": [
+        "win+ futbol colombia"
+      ]
+    },
+    {
+      "id": "All_Soccer_Events_034",
+      "time": "03:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "All Soccer Events",
+      "competition": "Women's Friendly",
+      "match": "USA vs Chile",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "nbc universo",
+        "tbs usa"
       ]
     },
     {
       "id": "Cricket_001",
       "time": "07:30",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Cricket",
-      "competition": "ICC U19 World Cup",
-      "match": "England U19 vs. bangladesh U19",
+      "competition": "ICC U19 CWC 2026",
+      "match": "Zimbabwe U19 vs. India U19",
       "region": "",
       "status": "upcoming",
       "channels": [
         "willow cricket",
-        "willow 2 cricket",
-        "sky sports cricket uk"
+        "astro cricket",
+        "sky sports mix uk",
+        "sky sport select nz"
       ]
     },
     {
       "id": "Cricket_002",
       "time": "07:30",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Cricket",
-      "competition": "ICC U19 World Cup",
-      "match": "Scotland U19 vs USA U19",
+      "competition": "ICC U19 CWC 2026",
+      "match": "Pakistan U19 vs. New Zealand U19",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "sky sports+ uk",
-        "sky sport select nz",
-        "sky sports+ uk",
-        "astro cricket"
+        "willow 2 cricket",
+        "sky sports cricket uk",
+        "sky sports main event",
+        "sky sport 2 nz"
       ]
     },
     {
       "id": "Cricket_003",
-      "time": "07:30",
-      "date": "2026-01-27",
+      "time": "08:45",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Cricket",
-      "competition": "ICC U19 World Cup",
-      "match": "Afghanistan U19 vs Sri Lanka U19",
+      "competition": "3rd ODI",
+      "match": "Sri Lanka vs England",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "sky sports mix uk",
-        "sky sport 3 nz",
-        "astro cricket"
+        "tnt sports 1 uk",
+        "supersport variety 1"
       ]
     },
     {
       "id": "Cricket_004",
       "time": "14:00",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Cricket",
-      "competition": "WPL",
-      "match": "Mumbai Indians W vs Royal Challengers Bangalore W",
+      "competition": "Women's Premier League",
+      "match": "Gujarat Giants W vs Delhi Capitals W",
       "region": "",
       "status": "upcoming",
       "channels": [
         "willow cricket",
-        "sky sport 2 nz",
+        "sky sport 4 nz",
         "supersport variety 2",
-        "sky sport 2 nz"
+        "sky sports+ uk"
+      ]
+    },
+    {
+      "id": "Cricket_005",
+      "time": "16:00",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Cricket",
+      "competition": "T20 Cricket",
+      "match": "South Africa vs. West Indies",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "willow cricket"
+      ]
+    },
+    {
+      "id": "Cricket_006",
+      "time": "23:30",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Cricket",
+      "competition": "National League Women",
+      "match": "Tasmanian Roar W vs Western Fury W",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "sky sport 4 nz"
+      ]
+    },
+    {
+      "id": "Tennis_BOYS___GIRLS_001",
+      "time": "22:00",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Tennis BOYS & GIRLS",
+      "competition": "Tennis",
+      "match": "1573 Arena",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "tennis stream"
+      ]
+    },
+    {
+      "id": "Tennis_BOYS___GIRLS_002",
+      "time": "22:00",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Tennis BOYS & GIRLS",
+      "competition": "Tennis",
+      "match": "ANZ Arena",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "tennis stream"
+      ]
+    },
+    {
+      "id": "Tennis_BOYS___GIRLS_003",
+      "time": "22:00",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Tennis BOYS & GIRLS",
+      "competition": "Tennis",
+      "match": "Court 5",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "tennis stream"
+      ]
+    },
+    {
+      "id": "Tennis_BOYS___GIRLS_004",
+      "time": "22:00",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Tennis BOYS & GIRLS",
+      "competition": "Tennis",
+      "match": "Court 6",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "tennis stream"
+      ]
+    },
+    {
+      "id": "Tennis_BOYS___GIRLS_005",
+      "time": "22:00",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Tennis BOYS & GIRLS",
+      "competition": "Tennis",
+      "match": "Court 7",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "tennis stream"
       ]
     },
     {
       "id": "Tennis_ATP___AUSTRALIAN_OPEN_001",
-      "time": "03:00",
-      "date": "2026-01-27",
+      "time": "02:30",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Tennis ATP - AUSTRALIAN OPEN",
       "competition": "ATP - AO",
-      "match": "Musetti L. vs Fritz T.",
+      "match": "Zverev A. vs Tien L.",
       "region": "ATP",
       "status": "upcoming",
       "channels": [
@@ -1341,27 +1603,12 @@
     },
     {
       "id": "Tennis_ATP___AUSTRALIAN_OPEN_002",
-      "time": "07:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "Tennis ATP - AUSTRALIAN OPEN",
-      "competition": "ATP - AO",
-      "match": "Darderi L. vs Sinner J.",
-      "region": "ATP",
-      "status": "upcoming",
-      "channels": [
-        "tennis stream",
-        "tennis stream"
-      ]
-    },
-    {
-      "id": "Tennis_ATP___AUSTRALIAN_OPEN_003",
       "time": "09:30",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Tennis ATP - AUSTRALIAN OPEN",
       "competition": "ATP - AO",
-      "match": "Shelton B. vs Ruud C",
+      "match": "Alcaraz C. vs De Minaur A.",
       "region": "ATP",
       "status": "upcoming",
       "channels": [
@@ -1372,11 +1619,11 @@
     {
       "id": "Tennis_WTA___AUSTRALIAN_OPEN_001",
       "time": "00:30",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Tennis WTA - AUSTRALIAN OPEN",
       "competition": "WTA - AO",
-      "match": "Pegula J. vs Keys M.",
+      "match": "Sabalenka A. vs Jovic 1.",
       "region": "WTA",
       "status": "upcoming",
       "channels": [
@@ -1386,42 +1633,12 @@
     },
     {
       "id": "Tennis_WTA___AUSTRALIAN_OPEN_002",
-      "time": "02:30",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "Tennis WTA - AUSTRALIAN OPEN",
-      "competition": "WTA - AO",
-      "match": "Wang Xin. vs Anisimova A.",
-      "region": "WTA",
-      "status": "upcoming",
-      "channels": [
-        "tennis stream",
-        "tennis stream"
-      ]
-    },
-    {
-      "id": "Tennis_WTA___AUSTRALIAN_OPEN_003",
-      "time": "05:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "Tennis WTA - AUSTRALIAN OPEN",
-      "competition": "WTA - AO",
-      "match": "Rybakina E. vs Mertens E.",
-      "region": "WTA",
-      "status": "upcoming",
-      "channels": [
-        "tennis stream",
-        "tennis stream"
-      ]
-    },
-    {
-      "id": "Tennis_WTA___AUSTRALIAN_OPEN_004",
       "time": "08:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Tennis WTA - AUSTRALIAN OPEN",
       "competition": "WTA - AO",
-      "match": "Inglis M. vs Swiatek 1.",
+      "match": "Gauff C. vs Svitolina E.",
       "region": "WTA",
       "status": "upcoming",
       "channels": [
@@ -1431,57 +1648,12 @@
     },
     {
       "id": "Tennis_ATP_DOUBLES___AUSTRALIAN_OPEN_001",
-      "time": "00:00",
-      "date": "2026-01-27",
+      "time": "06:00",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Tennis ATP DOUBLES - AUSTRALIAN OPEN",
       "competition": "ATP DOUBLES AO",
-      "match": "Luz Q./Matos R. vs Bhambri Y./Goransson A.",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "tennis stream",
-        "tennis stream"
-      ]
-    },
-    {
-      "id": "Tennis_ATP_DOUBLES___AUSTRALIAN_OPEN_002",
-      "time": "00:30",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "Tennis ATP DOUBLES - AUSTRALIAN OPEN",
-      "competition": "ATP DOUBLES AO",
-      "match": "McCabe J./Tu L. vs Kubler J./Polmans M.",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "tennis stream",
-        "tennis stream"
-      ]
-    },
-    {
-      "id": "Tennis_ATP_DOUBLES___AUSTRALIAN_OPEN_003",
-      "time": "02:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "Tennis ATP DOUBLES - AUSTRALIAN OPEN",
-      "competition": "ATP DOUBLES AO",
-      "match": "Arevalo M./Pavic M. vs Krajicek A./Mektic N.",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "tennis stream",
-        "tennis stream"
-      ]
-    },
-    {
-      "id": "Tennis_ATP_DOUBLES___AUSTRALIAN_OPEN_004",
-      "time": "03:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "Tennis ATP DOUBLES - AUSTRALIAN OPEN",
-      "competition": "ATP DOUBLES AO",
-      "match": "Nouza P./Rikl P. vs Heliovaara H./Patten H.",
+      "match": "Kubler J./Polmans M. vs Doumbia S./Reboul F.",
       "region": "",
       "status": "upcoming",
       "channels": [
@@ -1491,42 +1663,12 @@
     },
     {
       "id": "Tennis_WTA_DOUBLES___AUSTRALIAN_OPEN_001",
-      "time": "00:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "Tennis WTA DOUBLES - AUSTRALIAN OPEN",
-      "competition": "WTA DOUBLES AO",
-      "match": "Muhammad A./Routliffe E. vs Shibahara E./Zvonareva V.",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "tennis stream",
-        "tennis stream"
-      ]
-    },
-    {
-      "id": "Tennis_WTA_DOUBLES___AUSTRALIAN_OPEN_002",
       "time": "01:30",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Tennis WTA DOUBLES - AUSTRALIAN OPEN",
       "competition": "WTA DOUBLES AO",
-      "match": "Hsieh S-W./Ostapenko J. vs Kenin S./Siegemund L.",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "tennis stream",
-        "tennis stream"
-      ]
-    },
-    {
-      "id": "Tennis_WTA_DOUBLES___AUSTRALIAN_OPEN_003",
-      "time": "02:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "Tennis WTA DOUBLES - AUSTRALIAN OPEN",
-      "competition": "WTA DOUBLES AO",
-      "match": "Guo H./Mladenovic K. vs Birrell K./Gibson T.",
+      "match": "Baptiste H./Stearns P. vs Mertens E./Zhang S.",
       "region": "",
       "status": "upcoming",
       "channels": [
@@ -1536,12 +1678,12 @@
     },
     {
       "id": "Tennis_MIXED_DOUBLES___AUSTRALIAN_OPEN_001",
-      "time": "03:30",
-      "date": "2026-01-27",
+      "time": "00:00",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Tennis MIXED DOUBLES - AUSTRALIAN OPEN",
       "competition": "MIXED DOUBLES - AO",
-      "match": "Zhang S./Puetz T. vs Siniakova K./Verbeek S.",
+      "match": "Townsend T./Mektic N. vs Khromacheva I./Harrison C.",
       "region": "MIXED DOUBLES",
       "status": "upcoming",
       "channels": [
@@ -1551,12 +1693,12 @@
     },
     {
       "id": "Tennis_MIXED_DOUBLES___AUSTRALIAN_OPEN_002",
-      "time": "04:00",
-      "date": "2026-01-27",
+      "time": "03:00",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Tennis MIXED DOUBLES - AUSTRALIAN OPEN",
       "competition": "MIXED DOUBLES - AO",
-      "match": "Danilina A./Tracy J. vs Fernandez L./Kyrgios N.",
+      "match": "Danilina A./Tracy J. vs Stefani L./Arevalo M.",
       "region": "MIXED DOUBLES",
       "status": "upcoming",
       "channels": [
@@ -1567,11 +1709,11 @@
     {
       "id": "Tennis_MIXED_DOUBLES___AUSTRALIAN_OPEN_003",
       "time": "04:30",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Tennis MIXED DOUBLES - AUSTRALIAN OPEN",
       "competition": "MIXED DOUBLES - AO",
-      "match": "Mladenovic K./Guinard M. vs Schuurs D./Cash J.",
+      "match": "Gadecki O./Peers J. vs Krunic A./Pavic M.",
       "region": "MIXED DOUBLES",
       "status": "upcoming",
       "channels": [
@@ -1581,12 +1723,12 @@
     },
     {
       "id": "Tennis_MIXED_DOUBLES___AUSTRALIAN_OPEN_004",
-      "time": "05:30",
-      "date": "2026-01-27",
+      "time": "07:30",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Tennis MIXED DOUBLES - AUSTRALIAN OPEN",
       "competition": "MIXED DOUBLES - AO",
-      "match": "Joint M./Romios M. C. vs Krunic A./Pavic M.",
+      "match": "Siniakova K./Verbeek S. vs Mladenovic K./Guinard M.",
       "region": "MIXED DOUBLES",
       "status": "upcoming",
       "channels": [
@@ -1597,7 +1739,7 @@
     {
       "id": "Tennis_001",
       "time": "00:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Tennis",
       "competition": "Tennis",
@@ -1611,9 +1753,9 @@
         "tsn3",
         "tnt sports 3 uk",
         "tnt sports 4 uk",
+        "sky sport 1 nz",
         "espn2 usa",
         "espn deportes",
-        "sky sport 1 nz",
         "sky sport 4 nz",
         "sky sport 5 nz",
         "sky sport 6 nz",
@@ -1630,7 +1772,7 @@
         "sky sports tennis de",
         "sky sport tennis italy",
         "tv4 tennis",
-        "arena tennis",
+        "arena sport 1x2 serbia",
         "sport klub 2 croatia",
         "max sport 1 bulgaria",
         "ziggo sport 3 nl",
@@ -1647,53 +1789,35 @@
       ]
     },
     {
-      "id": "WWE__RAW__001",
-      "time": "00:00",
-      "date": "2026-01-27",
+      "id": "WWE__NXT__001",
+      "time": "01:00",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
-      "sport": "WWE (RAW)",
-      "competition": "WWE (RAW)",
-      "match": "WWE Monday Night RAW",
+      "sport": "WWE (NXT)",
+      "competition": "WWE (NXT)",
+      "match": "WWE NXT",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "netflix ppv",
-        "supersport variety 4",
-        "supersport grandstand",
-        "supersports action"
-      ]
-    },
-    {
-      "id": "Golf_001",
-      "time": "00:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "Golf",
-      "competition": "Golf",
-      "match": "TGL - Boston Common Golf Club vs The Bay Golf Club",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "sky sports golf uk",
-        "espn2 usa",
-        "sky sport 2 nz",
-        "sportsnet east",
-        "sportsnet ontario",
-        "sportsnet west",
-        "ziggo sport 6 nl"
+        "cw usa",
+        "cw pix 11 usa",
+        "supersport variety 3",
+        "supersport grandstand"
       ]
     },
     {
       "id": "Snooker_001",
       "time": "14:00",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Snooker",
       "competition": "Snooker",
-      "match": "Snooker: German Masters Round 1, Session 1",
+      "match": "German Masters Tournament Day 2",
       "region": "",
       "status": "upcoming",
       "channels": [
+        "tnt sports 2 uk",
+        "tnt sports 1 uk",
         "eurosport 1 poland",
         "eurosport 1 spain",
         "eurosport 1 france",
@@ -1704,190 +1828,256 @@
     },
     {
       "id": "Snooker_002",
-      "time": "18:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Snooker",
-      "competition": "Snooker",
-      "match": "Ultimate Pool Champions League | Group Stage",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "tnt sports 3 uk"
-      ]
-    },
-    {
-      "id": "Snooker_003",
       "time": "19:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Snooker",
-      "competition": "Snooker",
-      "match": "Snooker: German Masters Round 1, Session 2",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "eurosport 1 poland",
-        "eurosport 1 spain",
-        "eurosport 1 france",
-        "eurosport 1 se",
-        "eurosport 1 italy",
-        "eurosport 1 greece"
-      ]
-    },
-    {
-      "id": "Snooker_004",
-      "time": "19:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Snooker",
-      "competition": "Snooker",
-      "match": "Scotties Tournament of Hearts of Pool Play Draw 8",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "tsn1",
-        "tsn4"
-      ]
-    },
-    {
-      "id": "Snooker_005",
-      "time": "00:00",
       "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Snooker",
       "competition": "Snooker",
-      "match": "Scotties Tournament of Hearts of Pool Play Draw 9",
+      "match": "Scotties Tournament of Hearts of Pool Play Draw 11",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "tsn1",
-        "tsn4"
+        "tsn1"
+      ]
+    },
+    {
+      "id": "Snooker_003",
+      "time": "00:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "Snooker",
+      "competition": "Snooker",
+      "match": "Scotties Tournament of Hearts of Pool Play Draw 12",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "tsn1"
+      ]
+    },
+    {
+      "id": "Alpine_Ski_001",
+      "time": "16:30",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Alpine Ski",
+      "competition": "Alpine Ski",
+      "match": "Schladming | Men's Giant Slalom World Cup | Run 1",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "tnt sports 3 uk",
+        "eurosport 2 poland",
+        "eurosport 2 spain",
+        "eurosport 2 france",
+        "eurosport 2 se",
+        "eurosport 2 italy",
+        "eurosport 2 greece",
+        "eurosport 2 se"
+      ]
+    },
+    {
+      "id": "Alpine_Ski_002",
+      "time": "19:30",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Alpine Ski",
+      "competition": "Alpine Ski",
+      "match": "Schladming | Men's Giant Slalom World Cup | Run 2",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "tnt sports 3 uk",
+        "eurosport 2 poland",
+        "eurosport 2 spain",
+        "eurosport 2 france",
+        "eurosport 2 se",
+        "eurosport 2 italy",
+        "eurosport 2 greece",
+        "eurosport 2 se"
+      ]
+    },
+    {
+      "id": "Am__Football_001",
+      "time": "19:30",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Am. Football",
+      "competition": "Am. Football",
+      "match": "Senior Bowl Practice",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "nfl network usa"
+      ]
+    },
+    {
+      "id": "Am__Football_002",
+      "time": "22:00",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Am. Football",
+      "competition": "Am. Football",
+      "match": "Senior Bowl Practice",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "nfl network usa"
+      ]
+    },
+    {
+      "id": "Am__Football_003",
+      "time": "00:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "Am. Football",
+      "competition": "Am. Football",
+      "match": "College Football East-West Shrine Bowl",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "nfl network usa"
       ]
     },
     {
       "id": "Basketball_001",
       "time": "15:00",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Basketball",
-      "competition": "ABA League",
-      "match": "Dubai vs FMP Beograd",
+      "competition": "ABA League 2",
+      "match": "Mornar Bar vs Vojvodina Novi Sad",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "arena 1 premium serbia"
+        "arena sport 10 serbia"
       ]
     },
     {
       "id": "Basketball_002",
       "time": "16:00",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Basketball",
-      "competition": "Süper Ligi",
-      "match": "Merkezefendi vs Pinar Karsiyaka",
+      "competition": "Eurocup",
+      "match": "Turk Telekom vs Lietkabelis",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "bein sports 5 turkey",
-        "arena 2 premium serbia",
-        "cosmote sport 7 greece"
+        "magenta sport 309",
+        "nova sports prime greece",
+        "stv 1 slovenia",
+        "sportklub 1 croatia"
       ]
     },
     {
       "id": "Basketball_003",
       "time": "16:30",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Basketball",
-      "competition": "Israeli league",
-      "match": "Raananna vs HaEmek",
+      "competition": "VTB United League",
+      "match": "Zenit Petersburg vs Saratov",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "sportklub 3 croatia"
+        "arena 3 premium serbia"
       ]
     },
     {
       "id": "Basketball_004",
       "time": "16:30",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Basketball",
-      "competition": "Slovenian League",
-      "match": "Podčerekt vs Laško",
+      "competition": "Israeli National League Basketball",
+      "match": "Ironi Nahariya vs Hapoel Haifa BC",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "sportklub 5 croatia"
+        "5sport israel"
       ]
     },
     {
       "id": "Basketball_005",
       "time": "17:00",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Basketball",
-      "competition": "Bulgaria NBL",
-      "match": "Cherno More Ticha vs Balkan Botevgrad",
+      "competition": "ABA League 2",
+      "match": "Radnicki vs Zlatibor Cajetina",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "max sport 2 bulgaria"
-      ]
-    },
-    {
-      "id": "Basketball_006",
-      "time": "17:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Basketball",
-      "competition": "ABA League",
-      "match": "Split vs Studentski Centar",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "arena sport 1 serbia"
-      ]
-    },
-    {
-      "id": "Basketball_007",
-      "time": "18:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Basketball",
-      "competition": "ABA League",
-      "match": "Crvena zvezda vs Vienna Basket",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "arena 1 premium serbia",
         "arena sport 10 serbia"
       ]
     },
     {
-      "id": "Basketball_008",
-      "time": "18:55",
-      "date": "2026-01-26",
+      "id": "Basketball_006",
+      "time": "17:30",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Basketball",
-      "competition": "Israeli league",
-      "match": "Herzliya vs Rishon",
+      "competition": "Champions League",
+      "match": "Lietuvos Rytas vs Galatasaray",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "sportklub 3 croatia"
+        "arena sport 3 serbia",
+        "5live israel"
+      ]
+    },
+    {
+      "id": "Basketball_007",
+      "time": "17:30",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Basketball",
+      "competition": "Champions League",
+      "match": "AS Karditsas vs Tofas",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "cosmote sport 4 greece"
+      ]
+    },
+    {
+      "id": "Basketball_008",
+      "time": "18:00",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Basketball",
+      "competition": "Eurocup",
+      "match": "Buducnost vs Chemnitz",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "magenta sport 310",
+        "nova sports start greece",
+        "max sport 3 bulgaria"
       ]
     },
     {
       "id": "Basketball_009",
+      "time": "18:30",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Basketball",
+      "competition": "Champions League",
+      "match": "Hapoel Holon vs Le Mans",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "5sport israel"
+      ]
+    },
+    {
+      "id": "Basketball_010",
       "time": "19:00",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Basketball",
       "competition": "ABA League 2",
-      "match": "Student m:tel vs Sutjeska",
+      "match": "Helios Domzale vs Siroki Brijeg",
       "region": "",
       "status": "upcoming",
       "channels": [
@@ -1895,310 +2085,61 @@
       ]
     },
     {
-      "id": "Basketball_010",
+      "id": "Basketball_011",
       "time": "19:00",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Basketball",
-      "competition": "Lega A",
-      "match": "Olimpia Milano vs Varese",
+      "competition": "Eurocup",
+      "match": "Trento vs Besiktas",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "arena sport 2 serbia",
-        "cosmote sport 8 greece"
+        "magenta sport 311",
+        "sport tv3 portugal",
+        "arena 3 premium serbia",
+        "nova sports 5 greece"
       ]
     },
     {
-      "id": "NBA_G_League_001",
-      "time": "00:00",
+      "id": "Basketball_012",
+      "time": "19:00",
       "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
-      "sport": "NBA G-League",
-      "competition": "NBA G-League",
-      "match": "Long Island Nets vs Motor City Cruise",
-      "region": "NBA G",
-      "status": "upcoming",
-      "channels": [
-        "yes usa"
-      ]
-    },
-    {
-      "id": "NBA_G_League_002",
-      "time": "00:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "NBA G-League",
-      "competition": "NBA G-League",
-      "match": "Lakeland Magic vs Raptors 905",
-      "region": "NBA G",
-      "status": "upcoming",
-      "channels": [
-        "bally sports sun"
-      ]
-    },
-    {
-      "id": "Unrivaled_Basketball_001",
-      "time": "00:30",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "Unrivaled Basketball",
-      "competition": "Unrivaled Basketball",
-      "match": "Lunar Owls Basketball Club vs Hive Basketball Club",
+      "sport": "Basketball",
+      "competition": "Champions League",
+      "match": "Chalon/Saone vs Wurzburg",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "tnt usa",
-        "trutv usa",
-        "sky sport 3 nz"
+        "5plus israel"
       ]
     },
     {
-      "id": "Unrivaled_Basketball_002",
-      "time": "01:45",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "Unrivaled Basketball",
-      "competition": "Unrivaled Basketball",
-      "match": "Laces Basketball Club vs Breeze Basketball Club",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "tnt usa",
-        "trutv usa",
-        "sky sport 3 nz"
-      ]
-    },
-    {
-      "id": "NCAA_NCAAW_Basketball_001",
+      "id": "Basketball_013",
       "time": "20:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "NCAA/NCAAW Basketball",
-      "competition": "NCAAW",
-      "match": "Washington vs Rutgers",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "btn+ usa"
-      ]
-    },
-    {
-      "id": "NCAA_NCAAW_Basketball_002",
-      "time": "21:30",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "NCAA/NCAAW Basketball",
-      "competition": "Women's College Basketball",
-      "match": "Bucknell vs. Lafayette College",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "cbs sports network"
-      ]
-    },
-    {
-      "id": "NCAA_NCAAW_Basketball_003",
-      "time": "00:00",
       "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
-      "sport": "NCAA/NCAAW Basketball",
-      "competition": "NCAAW",
-      "match": "Tennessee vs Mississippi",
+      "sport": "Basketball",
+      "competition": "Euroleague",
+      "match": "Paris vs Real Madrid",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "espnu usa"
-      ]
-    },
-    {
-      "id": "NCAA_NCAAW_Basketball_004",
-      "time": "00:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "NCAA/NCAAW Basketball",
-      "competition": "NCAAW",
-      "match": "Tarleton State vs Abilene Christian",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "espn+ usa"
-      ]
-    },
-    {
-      "id": "NCAA_NCAAW_Basketball_005",
-      "time": "00:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "NCAA/NCAAW Basketball",
-      "competition": "NCAA",
-      "match": "Abilene Christian vs Tarleton State",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "espn+ usa"
-      ]
-    },
-    {
-      "id": "NCAA_NCAAW_Basketball_006",
-      "time": "00:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "NCAA/NCAAW Basketball",
-      "competition": "NCAA",
-      "match": "Louisville vs Duke",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "espn usa",
-        "tsn2",
+        "magenta sport 312",
+        "movistar deportes spain",
+        "arena 1 premium serbia",
+        "nova sports 4 greece",
+        "polsat sport extra 4 poland",
+        "oneplay sport 1 cz",
+        "oneplay sport 4 cz",
+        "max sport 4 bulgaria",
         "sportklub 2 croatia"
       ]
     },
     {
-      "id": "NCAA_NCAAW_Basketball_007",
-      "time": "00:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "NCAA/NCAAW Basketball",
-      "competition": "NCAA",
-      "match": "Penn State vs Ohio State",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "fox sports 1 usa"
-      ]
-    },
-    {
-      "id": "NCAA_NCAAW_Basketball_008",
-      "time": "00:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "NCAA/NCAAW Basketball",
-      "competition": "NCAA",
-      "match": "Howard vs Coppin State",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "espn+ usa"
-      ]
-    },
-    {
-      "id": "NCAA_NCAAW_Basketball_009",
-      "time": "00:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "NCAA/NCAAW Basketball",
-      "competition": "NCAA",
-      "match": "Texas A&amp;M-Commerce vs Lamar",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "espn+ usa"
-      ]
-    },
-    {
-      "id": "NCAA_NCAAW_Basketball_010",
-      "time": "00:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "NCAA/NCAAW Basketball",
-      "competition": "NCAA",
-      "match": "Bucknell VS Lafayette",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "cbs sports network"
-      ]
-    },
-    {
-      "id": "NCAA_NCAAW_Basketball_011",
-      "time": "00:30",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "NCAA/NCAAW Basketball",
-      "competition": "NCAA",
-      "match": "Delaware State vs South Carolina State",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "espn+ usa"
-      ]
-    },
-    {
-      "id": "NCAA_NCAAW_Basketball_012",
-      "time": "00:30",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "NCAA/NCAAW Basketball",
-      "competition": "NCAA",
-      "match": "New Orleans vs Nicholls",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "espn+ usa"
-      ]
-    },
-    {
-      "id": "NCAA_NCAAW_Basketball_013",
-      "time": "01:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "NCAA/NCAAW Basketball",
-      "competition": "NCAAW",
-      "match": "Florida vs LSU",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "sec network usa"
-      ]
-    },
-    {
-      "id": "NCAA_NCAAW_Basketball_014",
-      "time": "01:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "NCAA/NCAAW Basketball",
-      "competition": "NCAA",
-      "match": "Incarnate Word vs Houston Christian",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "espn+ usa"
-      ]
-    },
-    {
-      "id": "NCAA_NCAAW_Basketball_015",
-      "time": "01:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "NCAA/NCAAW Basketball",
-      "competition": "NCAA",
-      "match": "UT Rio Grande Valley vs Texas A&amp;M-CC",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "espn+ usa"
-      ]
-    },
-    {
-      "id": "NCAA_NCAAW_Basketball_016",
-      "time": "02:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "NCAA/NCAAW Basketball",
-      "competition": "NCAA",
-      "match": "Arizona vs BYU",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "espn usa",
-        "tsn2"
-      ]
-    },
-    {
-      "id": "NCAA_NCAAW_Basketball_017",
-      "time": "02:00",
+      "id": "NCAA_NCAAW_Basketball_001",
+      "time": "21:00",
       "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "NCAA/NCAAW Basketball",
@@ -2207,158 +2148,788 @@
       "region": "",
       "status": "upcoming",
       "channels": [
+        "cbs sports network usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_002",
+      "time": "23:00",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Pittsburgh vs Wake Forest",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "acc network usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_003",
+      "time": "23:00",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAAW",
+      "match": "Wichita State vs East Carolina",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn+ usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_004",
+      "time": "23:00",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAAW",
+      "match": "Tennessee Tech vs Tennessee State",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn+ usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_005",
+      "time": "23:30",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Rutgers vs Michigan State",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "fox sports 1 usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_006",
+      "time": "00:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Oklahoma vs Arkansas",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_007",
+      "time": "00:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "North Carolina State vs Syracuse",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espnu usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_008",
+      "time": "00:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Georgia Bulldogs vs Tennessee",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "sec network usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_009",
+      "time": "00:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Notre Dame vs Virginia",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn2 usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_010",
+      "time": "00:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "McNeese vs SE Louisiana",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn+ usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_011",
+      "time": "00:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Nebraska vs Michigan",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "peacock"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_012",
+      "time": "00:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Richmond vs VCU",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
         "cbs sports network"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_013",
+      "time": "00:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Rhode Island vs Dayton",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn+ usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_014",
+      "time": "00:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Arizona State vs UCF",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn+ usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_015",
+      "time": "00:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Toledo vs Akron",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn+ usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_016",
+      "time": "00:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Ohio vs Kent State",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn+ usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_017",
+      "time": "00:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Eastern Michigan vs Central Michigan",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn+ usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_018",
+      "time": "00:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Buffalo vs Bowling Green",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn+ usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_019",
+      "time": "00:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAAW",
+      "match": "Charlotte vs South Florida",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn+ usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_020",
+      "time": "00:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAAW",
+      "match": "Providence vs Villanova.",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn+ usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_021",
+      "time": "00:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAAW",
+      "match": "Washington Adventist vs Coppin State",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn+ usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_022",
+      "time": "00:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAAW",
+      "match": "Robert Morris vs Purdue Fort Wayne",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn+ usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_023",
+      "time": "00:30",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAAW",
+      "match": "North Texas vs UTSA",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn+ usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_024",
+      "time": "00:30",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAAW",
+      "match": "Florida Atlantic vs Tulsa",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn+ usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_025",
+      "time": "00:30",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Connecticut vs Providence",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "tnt usa",
+        "trutv usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_026",
+      "time": "01:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Virginia Tech vs Georgia Tech",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "acc network usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_027",
+      "time": "01:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Indiana State vs UIC",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn+ usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_028",
+      "time": "01:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "George Washington vs Saint Louis",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "fanduel sports network midwest",
+        "fanduel sports network indiana",
+        "fanduel sports network kansas city"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_029",
+      "time": "01:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Western Michigan vs Northern Illinois",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn+ usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_030",
+      "time": "01:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAAW",
+      "match": "Houston vs Baylor",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn+ usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_031",
+      "time": "01:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAAW",
+      "match": "Tulane vs Memphis",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn+ usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_032",
+      "time": "02:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAAW",
+      "match": "West Virginia vs Utah",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn+ usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_033",
+      "time": "01:30",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Tennessee Tech vs Tennessee State",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn+ usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_034",
+      "time": "01:30",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "West Virginia vs Kansas State",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "fox sports 1 usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_035",
+      "time": "02:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Vanderbilt vs Kentucky",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn usa",
+        "bein sports max 5 france"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_036",
+      "time": "02:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Alabama vs Missouri",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "sec network usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_037",
+      "time": "02:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Miami Ohio vs Massachusetts",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espnu usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_038",
+      "time": "02:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Purdue vs Indiana",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "peacock"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_039",
+      "time": "02:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Saint Joseph's vs Loyola Chicago",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "cbs sports network"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_040",
+      "time": "02:30",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Marquette vs Creighton",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "tnt usa",
+        "trutv usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_041",
+      "time": "03:30",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "Nevada vs Grand Canyon",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "fox sports 1 usa"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_042",
+      "time": "04:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAA",
+      "match": "UNLV vs New Mexico",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "cbs sports network"
+      ]
+    },
+    {
+      "id": "NCAA_NCAAW_Basketball_043",
+      "time": "04:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NCAA/NCAAW Basketball",
+      "competition": "NCAAW",
+      "match": "Fordham vs VCU.",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "espn+ usa"
+      ]
+    },
+    {
+      "id": "NBA_G_League_001",
+      "time": "00:30",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NBA G-League",
+      "competition": "NBA G-League",
+      "match": "Iowa Wolves vs Mexico City Capitanes",
+      "region": "NBA G",
+      "status": "upcoming",
+      "channels": [
+        "espn+ usa"
+      ]
+    },
+    {
+      "id": "NBA_G_League_002",
+      "time": "02:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NBA G-League",
+      "competition": "NBA G-League",
+      "match": "Valley Suns vs Austin Toros Spurs",
+      "region": "NBA G",
+      "status": "upcoming",
+      "channels": [
+        "espn+ usa"
+      ]
+    },
+    {
+      "id": "NBA_G_League_003",
+      "time": "03:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NBA G-League",
+      "competition": "NBA G-League",
+      "match": "South Bay Lakers vs College Park Skyhawks",
+      "region": "NBA G",
+      "status": "upcoming",
+      "channels": [
+        "spectrum sportsnet usa"
       ]
     },
     {
       "id": "NBA_001",
       "time": "00:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "NBA",
       "competition": "NBA",
-      "match": "Charlotte Hornets vs Philadelphia 76ers",
+      "match": "Washington Wizards vs Portland Trail Blazers",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "nba league pass"
+        "nba league pass",
+        "monumental sports network",
+        "5sport israel"
       ]
     },
     {
       "id": "NBA_002",
-      "time": "00:00",
-      "date": "2026-01-27",
+      "time": "00:30",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "NBA",
       "competition": "NBA",
-      "match": "Cleveland Cavaliers vs Orlando Magic",
+      "match": "New York Knicks vs Sacramento Kings",
       "region": "",
       "status": "upcoming",
       "channels": [
         "nba league pass",
-        "sky sports main event uk",
-        "sportsnet one",
-        "fanduel sports network florida",
-        "sky sport top event de",
-        "bein sports 1 france",
-        "espn mexico",
-        "nova sport 6 cz",
-        "arena 1 premium serbia",
-        "cosmote sport 4 greece",
-        "diema sport 2 bulgaria",
-        "espn4 brazil",
-        "supersport action",
-        "bein sports mena 6",
-        "bein sports mena english 1"
+        "nbcs california usa",
+        "msg usa"
       ]
     },
     {
       "id": "NBA_003",
-      "time": "00:30",
-      "date": "2026-01-27",
+      "time": "01:00",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "NBA",
       "competition": "NBA",
-      "match": "Atlanta Hawks vs Indiana Pacers",
+      "match": "Oklahoma City Thunder vs New Orleans Pelicans",
       "region": "",
       "status": "upcoming",
       "channels": [
         "nba league pass",
-        "fanduel sports network indiana"
+        "fanduel sports network oklahoma"
       ]
     },
     {
       "id": "NBA_004",
       "time": "01:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "NBA",
       "competition": "NBA",
-      "match": "Boston Celtics vs Portland Trail Blazers",
+      "match": "Philadelphia 76ers vs Milwaukee Bucks",
       "region": "",
       "status": "upcoming",
       "channels": [
         "nba league pass",
-        "nbcs boston usa",
-        "sky sports mix uk",
+        "nbc usa",
+        "nbcny usa",
+        "sky sports+ uk",
+        "sky sports main event uk",
+        "sportsnet one",
+        "sky sport top event de",
         "sport tv1 portugal",
-        "sky sport 2 de",
-        "5sport israel"
+        "bein sports 1 france",
+        "nova sport 2 cz",
+        "cosmote sport 4 greece",
+        "supersport action",
+        "cosmote sport 4 greece",
+        "bein sports mena 1",
+        "bein sports mena english 1",
+        "sportklub 1 croatia",
+        "5live israel"
       ]
     },
     {
       "id": "NBA_005",
-      "time": "01:00",
-      "date": "2026-01-27",
+      "time": "02:00",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "NBA",
       "competition": "NBA",
-      "match": "Chicago Bulls vs Los Angeles Lakers",
+      "match": "Denver Nuggets vs Detroit Pistons",
       "region": "",
       "status": "upcoming",
       "channels": [
         "nba league pass",
-        "chicago sports network",
-        "spectrum sportsnet usa",
-        "sportsnet 360",
-        "sportsnet east",
-        "sportsnet west",
-        "sportsnet ontario",
-        "sportklub 1 croatia"
+        "altitude usa",
+        "fanduel sports network detroit",
+        "arena 1 premium serbia"
       ]
     },
     {
       "id": "NBA_006",
-      "time": "01:00",
-      "date": "2026-01-27",
+      "time": "02:00",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "NBA",
       "competition": "NBA",
-      "match": "Houston Rockets vs Memphis Grizzlies",
+      "match": "Phoenix Suns vs Brooklyn Nets",
       "region": "",
       "status": "upcoming",
       "channels": [
         "nba league pass",
-        "space city home network"
+        "yes usa",
+        "5star israel"
       ]
     },
     {
       "id": "NBA_007",
-      "time": "02:30",
-      "date": "2026-01-27",
+      "time": "03:00",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "NBA",
       "competition": "NBA",
-      "match": "Minnesota Timberwolves vs Golden State Warriors",
+      "match": "Utah Jazz vs Los Angeles Clippers",
       "region": "",
       "status": "upcoming",
       "channels": [
         "nba league pass",
         "sky sports main event uk",
+        "sky sports mix uk",
+        "sportsnet 360",
         "sportsnet one",
+        "fanduel sports network socal",
+        "sky sport mix de",
         "sky sport top event de",
-        "bein sports 1 france",
-        "espn 1 nl",
-        "espn mexico",
-        "nova sport 6 cz",
-        "espn4 brazil",
-        "arena 1 premium serbia",
-        "bein sports mena 6",
-        "bein sports mena english 1"
+        "bein sports mena 9"
       ]
     },
     {
       "id": "Cycling_001",
-      "time": "12:00",
-      "date": "2026-01-26",
+      "time": "11:30",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Cycling",
       "competition": "Cycling",
-      "match": "World Cup Pal Arinsal | Sprint Races",
+      "match": "AlUla Tour '26: Stage 1 Flat | 158 km",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "tnt sports 2 uk",
+        "supersport variety 4",
         "eurosport 2 poland",
         "eurosport 2 spain",
         "eurosport 2 france",
@@ -2369,141 +2940,193 @@
       ]
     },
     {
-      "id": "Cycling_002",
-      "time": "14:00",
-      "date": "2026-01-26",
+      "id": "Darts_001",
+      "time": "00:00",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
-      "sport": "Cycling",
-      "competition": "Cycling",
-      "match": "Women's Cycling: Challenge Mallorca",
+      "sport": "Darts",
+      "competition": "Darts",
+      "match": "PDC Darts Winmau World Masters Preliminary Rounds - Arena MK, Milton Keynes",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "eurosport 2 poland",
-        "eurosport 2 spain",
-        "eurosport 2 france",
-        "eurosport 2 se",
-        "eurosport 2 italy",
-        "eurosport 2 greece",
-        "eurosport 2 se"
+        "pdc tv"
       ]
     },
     {
       "id": "Futsal_001",
-      "time": "16:30",
-      "date": "2026-01-26",
+      "time": "06:00",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Futsal",
-      "competition": "UEFA Futsal Championship",
-      "match": "Belarus vs Spain",
+      "competition": "AFC Championship",
+      "match": "Thailand vs Lebanon",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "sport tv2 portugal",
-        "espn2 mexico",
+        "sportklub 2 croatia"
+      ]
+    },
+    {
+      "id": "Futsal_002",
+      "time": "08:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "Futsal",
+      "competition": "AFC Championship",
+      "match": "Iraq vs Kyrgyzstan",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "sportklub 2 croatia"
+      ]
+    },
+    {
+      "id": "Futsal_003",
+      "time": "10:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "Futsal",
+      "competition": "AFC Championship",
+      "match": "Vietnam vs Kuwait",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "nova sport bulgaria",
+        "sportklub 2 croatia"
+      ]
+    },
+    {
+      "id": "Futsal_004",
+      "time": "12:00",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Futsal",
+      "competition": "AFC Championship",
+      "match": "Indonesia vs South Korea",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "nova sport bulgaria",
+        "sportklub 2 croatia"
+      ]
+    },
+    {
+      "id": "Futsal_005",
+      "time": "16:30",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Futsal",
+      "competition": "UEFA Futsal Championship",
+      "match": "Hungary vs Portugal",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "teledeporte spain (tdp)",
+        "m4 sports hungary",
+        "rtp 1 portugal",
+        "sport tv1 portugal",
+        "tvp sport poland",
+        "canal 11 portugal"
+      ]
+    },
+    {
+      "id": "Futsal_006",
+      "time": "19:30",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Futsal",
+      "competition": "UEFA Futsal Championship",
+      "match": "Poland vs Italy",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "tvp sport poland",
+        "teledeporte spain (tdp)",
+        "sport tv1 portugal",
         "bein sports mena 4",
         "bein sports mena english 1"
       ]
     },
     {
-      "id": "Futsal_002",
-      "time": "19:30",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Futsal",
-      "competition": "UEFA Futsal Championship",
-      "match": "Belgium vs Slovenia",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "sport tv2 portugal"
-      ]
-    },
-    {
-      "id": "Futsal_003",
-      "time": "22:30",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Futsal",
-      "competition": "Copa America",
-      "match": "Argentina vs Uruguay",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "sportv brasil"
-      ]
-    },
-    {
       "id": "Handball_001",
       "time": "14:30",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Handball",
       "competition": "European Championship",
-      "match": "Portugal vs Norway",
+      "match": "Switzerland vs Iceland",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "arena premium 3 serbia",
-        "rtp 1 portugal",
-        "tv2 sport denmark",
+        "srf zwei",
+        "bein sports 1 france",
         "ziggo sport 5 nl",
-        "bein sports max 4 france",
-        "m4 sports hungary",
-        "Čt sport cz",
-        "match! igra russia",
-        "ert 2 greece",
-        "sport 4 israel"
+        "tv2 sport denmark",
+        "arena premium 2 serbia",
+        "match! igra russia"
       ]
     },
     {
       "id": "Handball_002",
       "time": "17:00",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Handball",
       "competition": "European Championship",
-      "match": "Spain vs France",
+      "match": "Slovenia vs Croatia",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "france 4",
-        "arena premium 3 serbia",
+        "bein sports 1 france",
+        "rtl croatia",
+        "m4 sport hungary",
         "tv2 sport denmark",
-        "ziggo sport 5 nl",
+        "arena premium 2 serbia",
         "match! igra russia",
-        "eurosport 1 poland",
-        "sport 4 israel"
+        "ziggo sport 5 nl",
+        "sport 3 israel"
       ]
     },
     {
       "id": "Handball_003",
-      "time": "19:30",
-      "date": "2026-01-26",
+      "time": "17:10",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Handball",
-      "competition": "European Championship",
-      "match": "Germany vs Denmark",
+      "competition": "Israel Division 1",
+      "match": "MK Holon vs Maccabi Rishon Le Zion",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "teledeporte spain",
+        "5plus israel"
+      ]
+    },
+    {
+      "id": "Handball_004",
+      "time": "19:30",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Handball",
+      "competition": "European Championship",
+      "match": "Sweden vs Hungary",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
         "bein sports 1 france",
-        "arena premium 3 serbia",
         "rtp 2 portugal",
+        "m4 sport hungary",
+        "arena premium 2 serbia",
+        "tv2 sport denmark",
         "match! igra russia",
         "ziggo sport 5 nl",
-        "eurosport 1 poland",
-        "tv2 denmark",
-        "m4 sport hungary",
-        "orf sport+",
-        "sport 4 israel"
+        "sport 3 israel"
       ]
     },
     {
       "id": "Horse_Racing_001",
       "time": "12:30",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Horse Racing",
       "competition": "Horse Racing",
@@ -2517,11 +3140,11 @@
     {
       "id": "Horse_Racing_002",
       "time": "12:30",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Horse Racing",
       "competition": "Horse Racing",
-      "match": "Live racing from Punchestown",
+      "match": "Live racing from Limerick",
       "region": "",
       "status": "upcoming",
       "channels": [
@@ -2530,26 +3153,12 @@
     },
     {
       "id": "Ice_Hockey_001",
-      "time": "16:10",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Ice Hockey",
-      "competition": "KHL",
-      "match": "Dinamo Minsk vs Salavat Ufa",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "arena sport 2 serbia"
-      ]
-    },
-    {
-      "id": "Ice_Hockey_002",
       "time": "16:30",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Ice Hockey",
-      "competition": "KHL",
-      "match": "CSKA Moscow vs Severstal Cherepovets",
+      "competition": "Russia KHL",
+      "match": "SKA St. Petersburg vs Lokomotiv Yaroslavl",
       "region": "",
       "status": "upcoming",
       "channels": [
@@ -2557,241 +3166,550 @@
       ]
     },
     {
-      "id": "Ice_Hockey_003",
+      "id": "Ice_Hockey_002",
       "time": "18:00",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Ice Hockey",
-      "competition": "HockeyAllsvenskan",
-      "match": "Almtuna vs Kalmar",
+      "competition": "SHL",
+      "match": "Timra vs Malmo",
       "region": "",
       "status": "upcoming",
       "channels": [
+        "sport1+ de",
         "tv4 hockey sweden"
+      ]
+    },
+    {
+      "id": "Ice_Hockey_003",
+      "time": "18:00",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Ice Hockey",
+      "competition": "Alps Hockey League",
+      "match": "HDD Jesenice vs EK Zell am See",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "stv 2 slovenia"
+      ]
+    },
+    {
+      "id": "Ice_Hockey_004",
+      "time": "18:15",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Ice Hockey",
+      "competition": "Austria ICE Hockey League",
+      "match": "HK Olimpija vs Pioneers Vorarlberg",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "stv 1 slovenia"
+      ]
+    },
+    {
+      "id": "Ice_Hockey_005",
+      "time": "18:30",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Ice Hockey",
+      "competition": "DEL",
+      "match": "Knferenz",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "magenta sport 301"
+      ]
+    },
+    {
+      "id": "Ice_Hockey_006",
+      "time": "18:30",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Ice Hockey",
+      "competition": "DEL",
+      "match": "Straubing Tigers vs Nurnberg Ice Tigers",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "magenta sport 308"
+      ]
+    },
+    {
+      "id": "Ice_Hockey_007",
+      "time": "18:30",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Ice Hockey",
+      "competition": "DEL",
+      "match": "Schwenninger vs Red Bull München",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "magenta sport 305"
+      ]
+    },
+    {
+      "id": "Ice_Hockey_008",
+      "time": "18:30",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Ice Hockey",
+      "competition": "DEL",
+      "match": "Kolner vs Frankfurt Lowen",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "magenta sport 303"
+      ]
+    },
+    {
+      "id": "Ice_Hockey_009",
+      "time": "18:30",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Ice Hockey",
+      "competition": "DEL",
+      "match": "Iserlohn Roosters vs Adler Mannheim",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "magenta sport 302"
+      ]
+    },
+    {
+      "id": "Ice_Hockey_010",
+      "time": "18:30",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Ice Hockey",
+      "competition": "DEL",
+      "match": "ERC Ingolstadt vs Dresdner Eislowen",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "magenta sport 304"
+      ]
+    },
+    {
+      "id": "Ice_Hockey_011",
+      "time": "18:30",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Ice Hockey",
+      "competition": "DEL",
+      "match": "Bremerhaven vs Grizzly Wolfsburg",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "magenta sport 306"
+      ]
+    },
+    {
+      "id": "Ice_Hockey_012",
+      "time": "18:30",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Ice Hockey",
+      "competition": "DEL",
+      "match": "Augsburger Panther vs Eisbaren Berlin",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "magenta sport 307"
+      ]
+    },
+    {
+      "id": "Ice_Hockey_013",
+      "time": "00:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "Ice Hockey",
+      "competition": "OHL",
+      "match": "Sarnia Sting VS Kitchener Rangers",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "flohockey"
+      ]
+    },
+    {
+      "id": "Ice_Hockey_014",
+      "time": "01:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "Ice Hockey",
+      "competition": "AHL",
+      "match": "Rockford IceHogs vs Milwaukee Admirals",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "flohockey"
       ]
     },
     {
       "id": "NHL_001",
       "time": "00:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "NHL",
       "competition": "NHL",
-      "match": "Los Angeles Kings vs Columbus Blue Jackets",
+      "match": "Buffalo Sabres vs Toronto Maple Leafs",
       "region": "",
       "status": "upcoming",
       "channels": [
         "nhl gamecenter",
-        "fanduel sports network ohio",
-        "fanduel sports network west"
+        "tsn4",
+        "viasat vinter"
       ]
     },
     {
       "id": "NHL_002",
       "time": "00:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "NHL",
       "competition": "NHL",
-      "match": "Utah Mammoth vs Tampa Bay Lightning",
+      "match": "Vegas Golden Knights vs Montreal Canadiens",
       "region": "",
       "status": "upcoming",
       "channels": [
         "nhl gamecenter",
-        "viaplay sports 2 uk",
-        "5stars israel"
+        "rds ca",
+        "tsn2",
+        "bein sports 4 max france",
+        "tv3 sport denmark"
       ]
     },
     {
       "id": "NHL_003",
       "time": "00:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "NHL",
       "competition": "NHL",
-      "match": "Boston Bruins vs New York Rangers",
+      "match": "Winnipeg Jets vs New Jersey Devils",
       "region": "",
       "status": "upcoming",
       "channels": [
         "nhl gamecenter",
-        "nesn usa",
-        "msg usa",
-        "nhl network usa",
-        "tva sports",
-        "viasat vinter"
+        "tsn3"
       ]
     },
     {
       "id": "NHL_004",
       "time": "00:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "NHL",
       "competition": "NHL",
-      "match": "New York Islanders vs Philadelphia Flyers",
+      "match": "Nashville Predators vs Boston Bruins",
       "region": "",
       "status": "upcoming",
       "channels": [
         "nhl gamecenter",
-        "nbcs philadelphia",
-        "tv3 sport denmark"
+        "viaplay sports 2 uk",
+        "nesn usa",
+        "fanduel sports network south",
+        "sport tv3 portugal",
+        "sky sport mix de",
+        "sportsnet east",
+        "sportsnet ontario"
       ]
     },
     {
       "id": "NHL_005",
-      "time": "01:30",
-      "date": "2026-01-27",
+      "time": "00:00",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "NHL",
       "competition": "NHL",
-      "match": "Anaheim Ducks vs Edmonton Oilers",
+      "match": "Los Angeles Kings vs Detroit Red Wings",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "nhl gamecenter",
+        "sportsnet west",
+        "fanduel sports network west",
+        "v sport premium"
+      ]
+    },
+    {
+      "id": "NHL_006",
+      "time": "00:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NHL",
+      "competition": "NHL",
+      "match": "Utah Mammoth vs Florida Panthers",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "nhl gamecenter"
+      ]
+    },
+    {
+      "id": "NHL_007",
+      "time": "01:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NHL",
+      "competition": "NHL",
+      "match": "Chicago Blackhawks vs Minnesota Wild",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "nhl gamecenter",
+        "chicago sports network",
+        "fanduel sports network north",
+        "fanduel sports network wisconsin"
+      ]
+    },
+    {
+      "id": "NHL_008",
+      "time": "01:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "NHL",
+      "competition": "NHL",
+      "match": "Dallas Stars vs St. Louis Blues",
       "region": "",
       "status": "upcoming",
       "channels": [
         "nhl gamecenter",
         "viaplay sports 1 uk",
-        "sky sport mix de",
-        "bein sports 4 max france",
-        "v sport premium",
-        "5 live israel"
+        "max sport 2 bulgaria"
       ]
     },
     {
-      "id": "AHL_Hockey_001",
-      "time": "02:00",
-      "date": "2026-01-27",
+      "id": "NHL_009",
+      "time": "03:00",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
-      "sport": "AHL Hockey",
-      "competition": "AHL",
-      "match": "Laval Rocket vs Calgary Wranglers",
+      "sport": "NHL",
+      "competition": "NHL",
+      "match": "Washington Capitals vs Seattle Kraken",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "flohockey"
+        "nhl gamecenter",
+        "tva sports",
+        "monumental sports network",
+        "sportsnet east",
+        "sportsnet ontario",
+        "sportsnet west",
+        "v sport premium"
       ]
     },
     {
-      "id": "ECHL_Hockey_001",
-      "time": "00:00",
-      "date": "2026-01-27",
+      "id": "NHL_010",
+      "time": "03:00",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
-      "sport": "ECHL Hockey",
-      "competition": "ECHL",
-      "match": "Atlanta Gladiators vs Orlando Solar Bears",
+      "sport": "NHL",
+      "competition": "NHL",
+      "match": "San Jose Sharks vs Vancouver Canucks",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "flohockey"
-      ]
-    },
-    {
-      "id": "Ice_Skating_001",
-      "time": "04:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "Ice Skating",
-      "competition": "Ice Skating",
-      "match": "Figure Skating: Four Continents Championship Men (Free Skating)",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "digi sport 2 romania"
-      ]
-    },
-    {
-      "id": "Ice_Skating_002",
-      "time": "11:00",
-      "date": "2026-01-27",
-      "timezone": "Asia/Jakarta",
-      "sport": "Ice Skating",
-      "competition": "Ice Skating",
-      "match": "Isu european championships Four Continents Championship: Men - Freestyle",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "arena sport 8 serbia"
-      ]
-    },
-    {
-      "id": "Ice_Skating_003",
-      "time": "15:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Ice Skating",
-      "competition": "Ice Skating",
-      "match": "Isu european championships Four Continents Championship: Final showdown",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "arena sport 8 serbia"
+        "nhl gamecenter",
+        "nbcs california",
+        "viasat vinter"
       ]
     },
     {
       "id": "Volleyball_001",
-      "time": "16:30",
-      "date": "2026-01-26",
+      "time": "15:00",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Volleyball",
-      "competition": "PlusLiga",
-      "match": "Norwid Czestochowa vs Arka Chelm",
+      "competition": "Champions League Women",
+      "match": "Zeren Spor W vs Conegliano W",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "polsat sport 1 poland",
-        "polsat sport extra 2 poland"
+        "polsat sport 3 poland",
+        "sky sport max italy",
+        "arena sport 1 serbia",
+        "max sport 1 bulgaria",
+        "Матч! Арена"
       ]
     },
     {
       "id": "Volleyball_002",
-      "time": "18:00",
-      "date": "2026-01-26",
+      "time": "16:00",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Volleyball",
-      "competition": "Orlen Liga Women",
-      "match": "Chemik Police W vs Budowlani Lodz W",
+      "competition": "Russia Superliga",
+      "match": "Belogorie Belgorod vs Lokomotiv Novosibirsk",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "polsat sport fight poland"
+        "МАТЧ! СТРАНА",
+        "arena sport 2 serbia"
       ]
     },
     {
       "id": "Volleyball_003",
-      "time": "19:00",
-      "date": "2026-01-26",
+      "time": "16:30",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Volleyball",
-      "competition": "Orlen Liga Women",
-      "match": "Opole W vs Mogilno W",
+      "competition": "Champions League Women",
+      "match": "Maritsa Plovdiv W vs Rzeszow W",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "polsat sport 1 poland",
-        "polsat sport extra 2 poland"
+        "polsat sport 2 poland",
+        "polsat sport extra 2 poland",
+        "max sport 2 bulgaria"
       ]
     },
     {
       "id": "Volleyball_004",
-      "time": "22:30",
-      "date": "2026-01-26",
+      "time": "17:00",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Volleyball",
-      "competition": "Brazilian Men's Volleyball Cup Quarter-finals",
-      "match": "Praia Clube/Uberlândia vs. Suzano",
-      "region": "Brazilian Men's Volleyball Cup Quarter",
+      "competition": "Champions League Women",
+      "match": "Olympiakos Piraeus W vs Monza W",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "polsat sport premium 1 poland",
+        "sky sport arena it",
+        "arena sport 1 serbia",
+        "cosmote sport 6 greece"
+      ]
+    },
+    {
+      "id": "Volleyball_005",
+      "time": "17:00",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Volleyball",
+      "competition": "Champions League",
+      "match": "Luneburg vs Rzeszow",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "polsat sport 1 poland"
+      ]
+    },
+    {
+      "id": "Volleyball_006",
+      "time": "17:20",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Volleyball",
+      "competition": "CEV Cup Women",
+      "match": "Radom W vs Voluntari W",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "polsat sport 3 poland"
+      ]
+    },
+    {
+      "id": "Volleyball_007",
+      "time": "18:30",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Volleyball",
+      "competition": "Champions League",
+      "match": "BR Volleys vs VK Lvi Prague",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "polsat sport premium 2 poland"
+      ]
+    },
+    {
+      "id": "Volleyball_008",
+      "time": "19:00",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Volleyball",
+      "competition": "PlusLiga",
+      "match": "Olsztyn vs Slepsk Suwalki",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "polsat sport 2 poland"
+      ]
+    },
+    {
+      "id": "Volleyball_009",
+      "time": "19:30",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Volleyball",
+      "competition": "Champions League",
+      "match": "Politechnika Lublin vs Roeselare",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "polsat sport 1 poland",
+        "polsat sport extra 2 poland",
+        "max sport 1 bulgaria"
+      ]
+    },
+    {
+      "id": "Volleyball_010",
+      "time": "19:30",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Volleyball",
+      "competition": "Champions League",
+      "match": "Lube Civitanova vs Haasrode Leuven",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "polsat sport premium 1 poland",
+        "sport tv4 portugal",
+        "sky sport arena it",
+        "cosmote sport 7 greece",
+        "max sport 2 bulgaria"
+      ]
+    },
+    {
+      "id": "Volleyball_011",
+      "time": "21:30",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Volleyball",
+      "competition": "Brazil Superliga, Women",
+      "match": "Brasilia Volei (W) vs Volei Bauru (W)",
+      "region": "",
       "status": "upcoming",
       "channels": [
         "sportv2 brazil"
       ]
     },
     {
-      "id": "Volleyball_005",
-      "time": "02:00",
-      "date": "2026-01-27",
+      "id": "Volleyball_012",
+      "time": "00:00",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Volleyball",
-      "competition": "College Volleyball",
-      "match": "Fort Valley State vs CSU Northridge",
+      "competition": "Brazil Superliga, Women",
+      "match": "Sesc RJ Flamengo vs Osasco São Cristóvão Saúde",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "sportv2 brazil"
+      ]
+    },
+    {
+      "id": "Volleyball_013",
+      "time": "01:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "Volleyball",
+      "competition": "Volleyball",
+      "match": "American International vs Sacred Heart",
       "region": "",
       "status": "upcoming",
       "channels": [
@@ -2799,13 +3717,57 @@
       ]
     },
     {
+      "id": "Volleyball_014",
+      "time": "03:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "Volleyball",
+      "competition": "College Volleyball",
+      "match": "Vanguard vs UCLA.",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "btn+ usa"
+      ]
+    },
+    {
       "id": "Water_polo_001",
-      "time": "09:00",
+      "time": "12:15",
       "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Water polo",
-      "competition": "European Championship Women",
-      "match": "Switzerland W vs Israel W",
+      "competition": "European Championship, Women",
+      "match": "Italy W vs Serbia W",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "m4 sports hungary",
+        "Матч! Арена"
+      ]
+    },
+    {
+      "id": "Water_polo_002",
+      "time": "13:45",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Water polo",
+      "competition": "European Championship, Women",
+      "match": "Hungary W vs Romania W",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "m4 sports hungary",
+        "Матч! Арена"
+      ]
+    },
+    {
+      "id": "Water_polo_003",
+      "time": "15:30",
+      "date": "2026-01-27",
+      "timezone": "Asia/Jakarta",
+      "sport": "Water polo",
+      "competition": "European Championship, Women",
+      "match": "Israel vs Great Britain",
       "region": "",
       "status": "upcoming",
       "channels": [
@@ -2813,101 +3775,42 @@
       ]
     },
     {
-      "id": "Water_polo_002",
-      "time": "10:30",
+      "id": "Water_polo_004",
+      "time": "17:00",
       "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Water polo",
-      "competition": "European Proathlete Gynaikon",
-      "match": "Greece vs Slovakia",
+      "competition": "LEN European Championship Women",
+      "match": "Greece W vs France W",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "ert 2 greece"
-      ]
-    },
-    {
-      "id": "Water_polo_003",
-      "time": "13:30",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Water polo",
-      "competition": "European Championship Women",
-      "match": "Italy W vs Croatia W",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "m4 sports hungary",
-        "Матч! Арена"
-      ]
-    },
-    {
-      "id": "Water_polo_004",
-      "time": "14:15",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Water polo",
-      "competition": "European Athletics Championships",
-      "match": "Oyggaria vs Mayrovoynio",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "ert 2 greece"
-      ]
-    },
-    {
-      "id": "Water_polo_005",
-      "time": "17:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Water polo",
-      "competition": "European Championship Women",
-      "match": "Hungary W vs Spain W",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "m4 sports hungary",
+        "ert 2 greece",
         "Матч! Арена"
       ]
     },
     {
       "id": "Winter_Sports_001",
       "time": "14:00",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Winter Sports",
       "competition": "Winter Sports",
-      "match": "Tournoi des Coeurs Scotties 2026 Session 7",
+      "match": "Tournoi des Coeurs Scotties 2026 Session 10",
       "region": "",
       "status": "upcoming",
       "channels": [
-        "rds ca",
-        "tsn1",
-        "tsn4"
+        "rds 2 ca"
       ]
     },
     {
       "id": "Winter_Sports_002",
       "time": "19:00",
-      "date": "2026-01-26",
-      "timezone": "Asia/Jakarta",
-      "sport": "Winter Sports",
-      "competition": "Winter Sports",
-      "match": "Tournoi des Coeurs Scotties 2026 Session 8",
-      "region": "",
-      "status": "upcoming",
-      "channels": [
-        "rds 2 ca"
-      ]
-    },
-    {
-      "id": "Winter_Sports_003",
-      "time": "00:00",
       "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Winter Sports",
       "competition": "Winter Sports",
-      "match": "Tournoi des Coeurs Scotties 2026 Session 9",
+      "match": "Tournoi des Coeurs Scotties 2026 Session 11",
       "region": "",
       "status": "upcoming",
       "channels": [
@@ -2915,9 +3818,9 @@
       ]
     },
     {
-      "id": "Soccer_042",
+      "id": "Soccer_001",
       "time": "19:45",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Soccer",
       "competition": "Soccer",
@@ -2929,9 +3832,9 @@
       ]
     },
     {
-      "id": "Soccer_043",
+      "id": "Soccer_002",
       "time": "20:00",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Soccer",
       "competition": "Soccer",
@@ -2943,9 +3846,9 @@
       ]
     },
     {
-      "id": "Soccer_044",
+      "id": "Soccer_003",
       "time": "20:00",
-      "date": "2026-01-26",
+      "date": "2026-01-27",
       "timezone": "Asia/Jakarta",
       "sport": "Soccer",
       "competition": "Soccer",
@@ -2957,9 +3860,9 @@
       ]
     },
     {
-      "id": "Basketball_011",
+      "id": "Basketball_014",
       "time": "00:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Basketball",
       "competition": "NBA",
@@ -2971,9 +3874,9 @@
       ]
     },
     {
-      "id": "Basketball_012",
+      "id": "Basketball_015",
       "time": "00:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Basketball",
       "competition": "NBA",
@@ -2985,9 +3888,9 @@
       ]
     },
     {
-      "id": "Basketball_013",
+      "id": "Basketball_016",
       "time": "00:30",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Basketball",
       "competition": "NBA",
@@ -2999,9 +3902,9 @@
       ]
     },
     {
-      "id": "Basketball_014",
+      "id": "Basketball_017",
       "time": "01:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Basketball",
       "competition": "NBA",
@@ -3013,9 +3916,9 @@
       ]
     },
     {
-      "id": "Basketball_015",
+      "id": "Basketball_018",
       "time": "01:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Basketball",
       "competition": "NBA",
@@ -3027,9 +3930,9 @@
       ]
     },
     {
-      "id": "Basketball_016",
+      "id": "Basketball_019",
       "time": "01:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Basketball",
       "competition": "NBA",
@@ -3041,9 +3944,9 @@
       ]
     },
     {
-      "id": "Basketball_017",
+      "id": "Basketball_020",
       "time": "02:30",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Basketball",
       "competition": "NBA",
@@ -3055,9 +3958,9 @@
       ]
     },
     {
-      "id": "Ice_Hockey_004",
+      "id": "Ice_Hockey_015",
       "time": "00:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Ice Hockey",
       "competition": "NHL",
@@ -3069,9 +3972,9 @@
       ]
     },
     {
-      "id": "Ice_Hockey_005",
+      "id": "Ice_Hockey_016",
       "time": "00:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Ice Hockey",
       "competition": "NHL",
@@ -3083,9 +3986,9 @@
       ]
     },
     {
-      "id": "Ice_Hockey_006",
+      "id": "Ice_Hockey_017",
       "time": "00:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Ice Hockey",
       "competition": "NHL",
@@ -3097,13 +4000,83 @@
       ]
     },
     {
-      "id": "Ice_Hockey_007",
+      "id": "Ice_Hockey_018",
       "time": "00:00",
-      "date": "2026-01-27",
+      "date": "2026-01-28",
       "timezone": "Asia/Jakarta",
       "sport": "Ice Hockey",
       "competition": "NHL",
       "match": "New York Islanders vs Philadelphia Flyers",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "extra stream"
+      ]
+    },
+    {
+      "id": "Tennis_002",
+      "time": "00:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "Tennis",
+      "competition": "Tennis",
+      "match": "Margaret Court Arena: Taylor Townsend/Nikola Mektic vs Irina Khromacheva/Christian Harrison",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "extra stream"
+      ]
+    },
+    {
+      "id": "Tennis_003",
+      "time": "00:30",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "Tennis",
+      "competition": "Tennis",
+      "match": "Rod Laver Arena: Aryna Sabalenka vs Iva Jovic",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "extra stream"
+      ]
+    },
+    {
+      "id": "Tennis_004",
+      "time": "01:30",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "Tennis",
+      "competition": "Tennis",
+      "match": "Margaret Court Arena: Hailey Baptiste/Peyton Stearns vs Elise Mertens/Shuai Zhang",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "extra stream"
+      ]
+    },
+    {
+      "id": "Tennis_005",
+      "time": "02:30",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "Tennis",
+      "competition": "Tennis",
+      "match": "Rod Laver Arena: Alexander Zverev vs Learner Tien",
+      "region": "",
+      "status": "upcoming",
+      "channels": [
+        "extra stream"
+      ]
+    },
+    {
+      "id": "Tennis_006",
+      "time": "03:00",
+      "date": "2026-01-28",
+      "timezone": "Asia/Jakarta",
+      "sport": "Tennis",
+      "competition": "Tennis",
+      "match": "Margaret Court Arena: James Tracy/Anna Danilina vs Luisa Stefani/Marcelo Arevalo",
       "region": "",
       "status": "upcoming",
       "channels": [
