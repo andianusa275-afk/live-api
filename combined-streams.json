@@ -1,5 +1,10 @@
 [
   {
+    "channel": "#vamos es",
+    "title": "#vamos es",
+    "url": "https://dlhd.dad/stream/stream-521.php"
+  },
+  {
     "channel": "#Vamos Spain",
     "title": "#Vamos Spain",
     "url": "https://dlhd.dad/stream/stream-521.php"
@@ -115,14 +120,14 @@
     "url": "https://dlhd.dad/stream/stream-726.php"
   },
   {
-    "channel": "5 live israel",
-    "title": "5 live israel",
-    "url": "https://dlhd.dad/stream/stream-146.php"
-  },
-  {
     "channel": "5 USA",
     "title": "5 USA",
     "url": "https://dlhd.dad/stream/stream-360.php"
+  },
+  {
+    "channel": "5live israel",
+    "title": "5live israel",
+    "url": "https://dlhd.dad/stream/stream-146.php"
   },
   {
     "channel": "5plus israel",
@@ -135,8 +140,8 @@
     "url": "https://dlhd.dad/stream/stream-144.php"
   },
   {
-    "channel": "5stars israel",
-    "title": "5stars israel",
+    "channel": "5star israel",
+    "title": "5star israel",
     "url": "https://dlhd.dad/stream/stream-147.php"
   },
   {
@@ -180,8 +185,8 @@
     "url": "https://dlhd.dad/stream/stream-766.php"
   },
   {
-    "channel": "abc usa",
-    "title": "abc usa",
+    "channel": "ABC USA",
+    "title": "ABC USA",
     "url": "https://dlhd.dad/stream/stream-51.php"
   },
   {
@@ -193,6 +198,11 @@
     "channel": "ABC USA",
     "title": "ABC USA",
     "url": "https://antenasport.top/abc.php"
+  },
+  {
+    "channel": "abu dhabi sports 1",
+    "title": "abu dhabi sports 1",
+    "url": "https://dlhd.dad/stream/stream-600.php"
   },
   {
     "channel": "Abu Dhabi Sports 1 Premium",
@@ -255,14 +265,19 @@
     "url": "https://dlhd.dad/stream/stream-782.php"
   },
   {
-    "channel": "altitude sports",
-    "title": "altitude sports",
+    "channel": "Altitude Sports",
+    "title": "Altitude Sports",
     "url": "https://dlhd.dad/stream/stream-923.php"
   },
   {
     "channel": "Altitude Sports",
     "title": "Altitude Sports",
     "url": "https://antenasport.top/altitude.php"
+  },
+  {
+    "channel": "altitude usa",
+    "title": "altitude usa",
+    "url": "https://dlhd.dad/stream/stream-923.php"
   },
   {
     "channel": "AMC USA",
@@ -300,14 +315,19 @@
     "url": "https://dlhd.dad/stream/stream-134.php"
   },
   {
-    "channel": "arena 2 premium serbia",
-    "title": "arena 2 premium serbia",
+    "channel": "Arena 2 Premium Serbia",
+    "title": "Arena 2 Premium Serbia",
     "url": "https://dlhd.dad/stream/stream-135.php"
   },
   {
-    "channel": "arena premium 3 serbia",
-    "title": "arena premium 3 serbia",
+    "channel": "arena 3 premium serbia",
+    "title": "arena 3 premium serbia",
     "url": "https://dlhd.dad/stream/stream-139.php"
+  },
+  {
+    "channel": "arena premium 2 serbia",
+    "title": "arena premium 2 serbia",
+    "url": "https://dlhd.dad/stream/stream-135.php"
   },
   {
     "channel": "Arena Sport 1 BiH",
@@ -320,8 +340,8 @@
     "url": "https://antenasport.top/arenasport1bh.php"
   },
   {
-    "channel": "Arena Sport 1 Croatia",
-    "title": "Arena Sport 1 Croatia",
+    "channel": "arena sport 1 croatia",
+    "title": "arena sport 1 croatia",
     "url": "https://dlhd.dad/stream/stream-432.php"
   },
   {
@@ -415,8 +435,8 @@
     "url": "https://antenasport.top/arenasport2sr.php"
   },
   {
-    "channel": "arena sport 3 croatia",
-    "title": "arena sport 3 croatia",
+    "channel": "Arena Sport 3 Croatia",
+    "title": "Arena Sport 3 Croatia",
     "url": "https://dlhd.dad/stream/stream-434.php"
   },
   {
@@ -440,8 +460,8 @@
     "url": "https://antenasport.top/arena3premiumserbia.php"
   },
   {
-    "channel": "Arena Sport 3 Serbia",
-    "title": "Arena Sport 3 Serbia",
+    "channel": "arena sport 3 serbia",
+    "title": "arena sport 3 serbia",
     "url": "https://dlhd.dad/stream/stream-431.php"
   },
   {
@@ -455,8 +475,8 @@
     "url": "https://antenasport.top/arenasport3sr.php"
   },
   {
-    "channel": "arena sport 4 croatia",
-    "title": "arena sport 4 croatia",
+    "channel": "Arena Sport 4 Croatia",
+    "title": "Arena Sport 4 Croatia",
     "url": "https://dlhd.dad/stream/stream-580.php"
   },
   {
@@ -525,8 +545,8 @@
     "url": "https://antenasport.top/arenasport7sr.php"
   },
   {
-    "channel": "arena sport 8 serbia",
-    "title": "arena sport 8 serbia",
+    "channel": "Arena Sport 8 Serbia",
+    "title": "Arena Sport 8 Serbia",
     "url": "https://dlhd.dad/stream/stream-943.php"
   },
   {
@@ -555,11 +575,6 @@
     "url": "https://dlhd.dad/stream/stream-612.php"
   },
   {
-    "channel": "arena tennis",
-    "title": "arena tennis",
-    "url": "https://dlhd.dad/stream/stream-612.php"
-  },
-  {
     "channel": "Arte DE",
     "title": "Arte DE",
     "url": "https://dlhd.dad/stream/stream-725.php"
@@ -583,16 +598,6 @@
     "channel": "astro football",
     "title": "astro football",
     "url": "https://dlhd.dad/stream/stream-124.php"
-  },
-  {
-    "channel": "astro grandstand",
-    "title": "astro grandstand",
-    "url": "https://dlhd.dad/stream/stream-123.php"
-  },
-  {
-    "channel": "astro premier league",
-    "title": "astro premier league",
-    "url": "https://dlhd.dad/stream/stream-125.php"
   },
   {
     "channel": "Astro SuperSport 1",
@@ -630,8 +635,8 @@
     "url": "https://dlhd.dad/stream/stream-717.php"
   },
   {
-    "channel": "AXS TV USA",
-    "title": "AXS TV USA",
+    "channel": "axs tv usa",
+    "title": "axs tv usa",
     "url": "https://dlhd.dad/stream/stream-742.php"
   },
   {
@@ -655,11 +660,6 @@
     "url": "https://dlhd.dad/stream/stream-934.php"
   },
   {
-    "channel": "bally sports sun",
-    "title": "bally sports sun",
-    "url": "https://dlhd.dad/stream/stream-905.php"
-  },
-  {
     "channel": "Bandsports Brasil",
     "title": "Bandsports Brasil",
     "url": "https://dlhd.dad/stream/stream-275.php"
@@ -668,6 +668,11 @@
     "channel": "Barca TV Spain",
     "title": "Barca TV Spain",
     "url": "https://dlhd.dad/stream/stream-522.php"
+  },
+  {
+    "channel": "bbc alba",
+    "title": "bbc alba",
+    "url": "https://dlhd.dad/stream/stream-4.php"
   },
   {
     "channel": "BBC America (BBCA)",
@@ -765,8 +770,8 @@
     "url": "https://dlhd.dad/stream/stream-712.php"
   },
   {
-    "channel": "bein sports 1 turkey",
-    "title": "bein sports 1 turkey",
+    "channel": "beIN SPORTS 1 Turkey",
+    "title": "beIN SPORTS 1 Turkey",
     "url": "https://dlhd.dad/stream/stream-62.php"
   },
   {
@@ -800,8 +805,8 @@
     "url": "https://dlhd.dad/stream/stream-713.php"
   },
   {
-    "channel": "bein sports 2 turkey",
-    "title": "bein sports 2 turkey",
+    "channel": "beIN SPORTS 2 Turkey",
+    "title": "beIN SPORTS 2 Turkey",
     "url": "https://dlhd.dad/stream/stream-63.php"
   },
   {
@@ -830,8 +835,8 @@
     "url": "https://dlhd.dad/stream/stream-714.php"
   },
   {
-    "channel": "bein sports 3 turkey",
-    "title": "bein sports 3 turkey",
+    "channel": "beIN SPORTS 3 Turkey",
+    "title": "beIN SPORTS 3 Turkey",
     "url": "https://dlhd.dad/stream/stream-64.php"
   },
   {
@@ -855,8 +860,8 @@
     "url": "https://dlhd.dad/stream/stream-95.php"
   },
   {
-    "channel": "bein sports 5 turkey",
-    "title": "bein sports 5 turkey",
+    "channel": "bein Sports 5 Turkey",
+    "title": "bein Sports 5 Turkey",
     "url": "https://dlhd.dad/stream/stream-1010.php"
   },
   {
@@ -895,11 +900,6 @@
     "url": "https://dlhd.dad/stream/stream-493.php"
   },
   {
-    "channel": "bein sports en español",
-    "title": "bein sports en español",
-    "url": "https://dlhd.dad/stream/stream-372.php"
-  },
-  {
     "channel": "beIN SPORTS en Espa単ol",
     "title": "beIN SPORTS en Espa単ol",
     "url": "https://dlhd.dad/stream/stream-372.php"
@@ -925,8 +925,8 @@
     "url": "https://dlhd.dad/stream/stream-500.php"
   },
   {
-    "channel": "bein sports max 4 france",
-    "title": "bein sports max 4 france",
+    "channel": "beIN Sports MAX 4 France",
+    "title": "beIN Sports MAX 4 France",
     "url": "https://dlhd.dad/stream/stream-494.php"
   },
   {
@@ -940,8 +940,8 @@
     "url": "https://dlhd.dad/stream/stream-495.php"
   },
   {
-    "channel": "bein sports max 6 france",
-    "title": "bein sports max 6 france",
+    "channel": "beIN Sports MAX 6 France",
+    "title": "beIN Sports MAX 6 France",
     "url": "https://dlhd.dad/stream/stream-496.php"
   },
   {
@@ -970,24 +970,19 @@
     "url": "https://dlhd.dad/stream/stream-92.php"
   },
   {
-    "channel": "bein sports mena 3",
-    "title": "bein sports mena 3",
-    "url": "https://dlhd.dad/stream/stream-93.php"
-  },
-  {
     "channel": "bein sports mena 4",
     "title": "bein sports mena 4",
     "url": "https://dlhd.dad/stream/stream-94.php"
   },
   {
-    "channel": "bein sports mena 5",
-    "title": "bein sports mena 5",
-    "url": "https://dlhd.dad/stream/stream-95.php"
+    "channel": "beIN Sports MENA 6",
+    "title": "beIN Sports MENA 6",
+    "url": "https://dlhd.dad/stream/stream-96.php"
   },
   {
-    "channel": "bein sports mena 6",
-    "title": "bein sports mena 6",
-    "url": "https://dlhd.dad/stream/stream-96.php"
+    "channel": "bein sports mena 9",
+    "title": "bein sports mena 9",
+    "url": "https://dlhd.dad/stream/stream-99.php"
   },
   {
     "channel": "bein sports mena english 1",
@@ -1005,8 +1000,8 @@
     "url": "https://dlhd.dad/stream/stream-90.php"
   },
   {
-    "channel": "bein sports usa",
-    "title": "bein sports usa",
+    "channel": "BeIN SPORTS USA",
+    "title": "BeIN SPORTS USA",
     "url": "https://dlhd.dad/stream/stream-425.php"
   },
   {
@@ -1102,7 +1097,7 @@
   {
     "channel": "btn+ usa",
     "title": "btn+ usa",
-    "url": "https://dlhd.dad/stream/stream-55.php"
+    "url": "https://dlhd.dad/stream/stream-167.php"
   },
   {
     "channel": "bTV Action Bulgaria",
@@ -1155,18 +1150,13 @@
     "url": "https://topembed.pw/channel/Canal11[Portugal]"
   },
   {
-    "channel": "canal+ extra 1 poland",
-    "title": "canal+ extra 1 poland",
-    "url": "https://dlhd.dad/stream/stream-983.php"
-  },
-  {
     "channel": "Canal+ Family Poland",
     "title": "Canal+ Family Poland",
     "url": "https://dlhd.dad/stream/stream-567.php"
   },
   {
-    "channel": "canal+ foot france",
-    "title": "canal+ foot france",
+    "channel": "Canal+ Foot France",
+    "title": "Canal+ Foot France",
     "url": "https://dlhd.dad/stream/stream-463.php"
   },
   {
@@ -1265,8 +1255,8 @@
     "url": "https://antenasport.top/canalsportplus2pl.php"
   },
   {
-    "channel": "canal+ sport 3 afrique",
-    "title": "canal+ sport 3 afrique",
+    "channel": "Canal+ Sport 3 Afrique",
+    "title": "Canal+ Sport 3 Afrique",
     "url": "https://dlhd.dad/stream/stream-488.php"
   },
   {
@@ -1320,8 +1310,8 @@
     "url": "https://antenasport.top/canalsportplus5pl.php"
   },
   {
-    "channel": "canal+ sport cz",
-    "title": "canal+ sport cz",
+    "channel": "Canal+ Sport CZ",
+    "title": "Canal+ Sport CZ",
     "url": "https://dlhd.dad/stream/stream-1020.php"
   },
   {
@@ -1360,11 +1350,6 @@
     "url": "https://antenasport.top/canalsportplus1pl.php"
   },
   {
-    "channel": "canal+ sport sk",
-    "title": "canal+ sport sk",
-    "url": "https://dlhd.dad/stream/stream-1063.php"
-  },
-  {
     "channel": "Canal+ Sport360",
     "title": "Canal+ Sport360",
     "url": "https://dlhd.dad/stream/stream-464.php"
@@ -1400,6 +1385,11 @@
     "url": "https://dlhd.dad/stream/stream-910.php"
   },
   {
+    "channel": "cbs sports golazo usa",
+    "title": "cbs sports golazo usa",
+    "url": "https://dlhd.dad/stream/stream-910.php"
+  },
+  {
     "channel": "cbs sports network",
     "title": "cbs sports network",
     "url": "https://dlhd.dad/stream/stream-308.php"
@@ -1420,6 +1410,11 @@
     "url": "https://antenasport.top/cbssports.php"
   },
   {
+    "channel": "cbs sports network usa",
+    "title": "cbs sports network usa",
+    "url": "https://dlhd.dad/stream/stream-308.php"
+  },
+  {
     "channel": "CBS USA",
     "title": "CBS USA",
     "url": "https://dlhd.dad/stream/stream-52.php"
@@ -1430,8 +1425,8 @@
     "url": "https://topembed.pw/channel/CBS[USA]"
   },
   {
-    "channel": "CBSNY USA",
-    "title": "CBSNY USA",
+    "channel": "cbsny usa",
+    "title": "cbsny usa",
     "url": "https://dlhd.dad/stream/stream-767.php"
   },
   {
@@ -1590,11 +1585,6 @@
     "url": "https://dlhd.dad/stream/stream-697.php"
   },
   {
-    "channel": "cosmote sport 1 greece",
-    "title": "cosmote sport 1 greece",
-    "url": "https://dlhd.dad/stream/stream-622.php"
-  },
-  {
     "channel": "Cosmote Sport 1 HD",
     "title": "Cosmote Sport 1 HD",
     "url": "https://dlhd.dad/stream/stream-622.php"
@@ -1608,11 +1598,6 @@
     "channel": "Cosmote Sport 1 HD",
     "title": "Cosmote Sport 1 HD",
     "url": "https://antenasport.top/cosmote1.php"
-  },
-  {
-    "channel": "cosmote sport 2 greece",
-    "title": "cosmote sport 2 greece",
-    "url": "https://dlhd.dad/stream/stream-623.php"
   },
   {
     "channel": "Cosmote Sport 2 HD",
@@ -1685,6 +1670,11 @@
     "url": "https://antenasport.top/cosmote5.php"
   },
   {
+    "channel": "cosmote sport 6 greece",
+    "title": "cosmote sport 6 greece",
+    "url": "https://dlhd.dad/stream/stream-627.php"
+  },
+  {
     "channel": "Cosmote Sport 6 HD",
     "title": "Cosmote Sport 6 HD",
     "url": "https://dlhd.dad/stream/stream-627.php"
@@ -1718,11 +1708,6 @@
     "channel": "Cosmote Sport 7 HD",
     "title": "Cosmote Sport 7 HD",
     "url": "https://antenasport.top/cosmote7.php"
-  },
-  {
-    "channel": "cosmote sport 8 greece",
-    "title": "cosmote sport 8 greece",
-    "url": "https://dlhd.dad/stream/stream-629.php"
   },
   {
     "channel": "Cosmote Sport 8 HD",
@@ -1795,8 +1780,8 @@
     "url": "https://dlhd.dad/stream/stream-280.php"
   },
   {
-    "channel": "CW USA",
-    "title": "CW USA",
+    "channel": "cw usa",
+    "title": "cw usa",
     "url": "https://dlhd.dad/stream/stream-300.php"
   },
   {
@@ -2020,11 +2005,6 @@
     "url": "https://dlhd.dad/stream/stream-445.php"
   },
   {
-    "channel": "dazn2 de",
-    "title": "dazn2 de",
-    "url": "https://dlhd.dad/stream/stream-427.php"
-  },
-  {
     "channel": "Destination America",
     "title": "Destination America",
     "url": "https://dlhd.dad/stream/stream-651.php"
@@ -2060,8 +2040,8 @@
     "url": "https://dlhd.dad/stream/stream-467.php"
   },
   {
-    "channel": "Diema Sport Bulgaria",
-    "title": "Diema Sport Bulgaria",
+    "channel": "diema sport bulgaria",
+    "title": "diema sport bulgaria",
     "url": "https://dlhd.dad/stream/stream-465.php"
   },
   {
@@ -2070,8 +2050,8 @@
     "url": "https://topembed.pw/channel/DiemaSport[Bulgaria]"
   },
   {
-    "channel": "digi sport 1 romania",
-    "title": "digi sport 1 romania",
+    "channel": "Digi Sport 1 Romania",
+    "title": "Digi Sport 1 Romania",
     "url": "https://dlhd.dad/stream/stream-400.php"
   },
   {
@@ -2105,8 +2085,8 @@
     "url": "https://dlhd.dad/stream/stream-10.php"
   },
   {
-    "channel": "Digi Sport 3 Romania",
-    "title": "Digi Sport 3 Romania",
+    "channel": "digi sport 3 romania",
+    "title": "digi sport 3 romania",
     "url": "https://dlhd.dad/stream/stream-402.php"
   },
   {
@@ -2120,8 +2100,8 @@
     "url": "https://antenasport.top/digisport3.php"
   },
   {
-    "channel": "digi sport 4 romania",
-    "title": "digi sport 4 romania",
+    "channel": "Digi Sport 4 Romania",
+    "title": "Digi Sport 4 Romania",
     "url": "https://dlhd.dad/stream/stream-403.php"
   },
   {
@@ -2190,8 +2170,8 @@
     "url": "https://topembed.pw/channel/DisneyJR[USA]"
   },
   {
-    "channel": "disney xd",
-    "title": "disney xd",
+    "channel": "Disney XD",
+    "title": "Disney XD",
     "url": "https://dlhd.dad/stream/stream-314.php"
   },
   {
@@ -2248,6 +2228,11 @@
     "channel": "E! Entertainment Television",
     "title": "E! Entertainment Television",
     "url": "https://topembed.pw/channel/EEntertainement[USA]"
+  },
+  {
+    "channel": "e! usa",
+    "title": "e! usa",
+    "url": "https://dlhd.dad/stream/stream-315.php"
   },
   {
     "channel": "E4 Channel",
@@ -2352,7 +2337,7 @@
   {
     "channel": "ert 2 greece",
     "title": "ert 2 greece",
-    "url": "https://dlhd.dad/stream/stream-13.php"
+    "url": "https://dlhd.dad/stream/stream-18.php"
   },
   {
     "channel": "ESPN 1 MX",
@@ -2390,8 +2375,8 @@
     "url": "https://antenasport.top/espn2mx.php"
   },
   {
-    "channel": "espn 2 nl",
-    "title": "espn 2 nl",
+    "channel": "ESPN 2 NL",
+    "title": "ESPN 2 NL",
     "url": "https://dlhd.dad/stream/stream-386.php"
   },
   {
@@ -2430,8 +2415,8 @@
     "url": "https://antenasport.top/espn4mx.php"
   },
   {
-    "channel": "espn 4 nl",
-    "title": "espn 4 nl",
+    "channel": "ESPN 4 NL",
+    "title": "ESPN 4 NL",
     "url": "https://dlhd.dad/stream/stream-2.php"
   },
   {
@@ -2460,11 +2445,6 @@
     "url": "https://topembed.pw/channel/ESPNBrazil[Brazil]"
   },
   {
-    "channel": "espn brazil",
-    "title": "espn brazil",
-    "url": "https://dlhd.dad/stream/stream-81.php"
-  },
-  {
     "channel": "espn deportes",
     "title": "espn deportes",
     "url": "https://dlhd.dad/stream/stream-375.php"
@@ -2478,11 +2458,6 @@
     "channel": "ESPN Deportes",
     "title": "ESPN Deportes",
     "url": "https://antenasport.top/espndeportes.php"
-  },
-  {
-    "channel": "espn mexico",
-    "title": "espn mexico",
-    "url": "https://dlhd.dad/stream/stream-925.php"
   },
   {
     "channel": "espn premium argentina",
@@ -2517,11 +2492,16 @@
   {
     "channel": "espn+ usa",
     "title": "espn+ usa",
-    "url": "https://dlhd.dad/stream/stream-68.php"
+    "url": "https://dlhd.dad/stream/stream-161.php"
   },
   {
     "channel": "espn2 argentina",
     "title": "espn2 argentina",
+    "url": "https://dlhd.dad/stream/stream-160.php"
+  },
+  {
+    "channel": "ESPN2 Argentina",
+    "title": "ESPN2 Argentina",
     "url": "https://dlhd.dad/stream/stream-150.php"
   },
   {
@@ -2538,11 +2518,6 @@
     "channel": "ESPN2 Brasil",
     "title": "ESPN2 Brasil",
     "url": "https://dlhd.dad/stream/stream-82.php"
-  },
-  {
-    "channel": "espn2 mexico",
-    "title": "espn2 mexico",
-    "url": "https://dlhd.dad/stream/stream-926.php"
   },
   {
     "channel": "espn2 usa",
@@ -2585,11 +2560,6 @@
     "url": "https://dlhd.dad/stream/stream-85.php"
   },
   {
-    "channel": "espn4 brazil",
-    "title": "espn4 brazil",
-    "url": "https://dlhd.dad/stream/stream-85.php"
-  },
-  {
     "channel": "ESPNews",
     "title": "ESPNews",
     "url": "https://dlhd.dad/stream/stream-288.php"
@@ -2602,11 +2572,6 @@
   {
     "channel": "espnu usa",
     "title": "espnu usa",
-    "url": "https://dlhd.dad/stream/stream-59.php"
-  },
-  {
-    "channel": "ESPNU USA",
-    "title": "ESPNU USA",
     "url": "https://dlhd.dad/stream/stream-316.php"
   },
   {
@@ -2755,8 +2720,8 @@
     "url": "https://dlhd.dad/stream/stream-890.php"
   },
   {
-    "channel": "FanDuel Sports Network Detroit",
-    "title": "FanDuel Sports Network Detroit",
+    "channel": "fanduel sports network detroit",
+    "title": "fanduel sports network detroit",
     "url": "https://dlhd.dad/stream/stream-891.php"
   },
   {
@@ -2765,8 +2730,8 @@
     "url": "https://topembed.pw/channel/FanDuelSportsDetroit[USA]"
   },
   {
-    "channel": "fanduel sports network florida",
-    "title": "fanduel sports network florida",
+    "channel": "FanDuel Sports Network Florida",
+    "title": "FanDuel Sports Network Florida",
     "url": "https://dlhd.dad/stream/stream-892.php"
   },
   {
@@ -2785,8 +2750,8 @@
     "url": "https://dlhd.dad/stream/stream-894.php"
   },
   {
-    "channel": "FanDuel Sports Network Kansas City",
-    "title": "FanDuel Sports Network Kansas City",
+    "channel": "fanduel sports network kansas city",
+    "title": "fanduel sports network kansas city",
     "url": "https://dlhd.dad/stream/stream-895.php"
   },
   {
@@ -2795,8 +2760,8 @@
     "url": "https://topembed.pw/channel/FanDuelSportKansasCity[USA]"
   },
   {
-    "channel": "FanDuel Sports Network Midwest",
-    "title": "FanDuel Sports Network Midwest",
+    "channel": "fanduel sports network midwest",
+    "title": "fanduel sports network midwest",
     "url": "https://dlhd.dad/stream/stream-896.php"
   },
   {
@@ -2810,13 +2775,13 @@
     "url": "https://dlhd.dad/stream/stream-897.php"
   },
   {
-    "channel": "FanDuel Sports Network North",
-    "title": "FanDuel Sports Network North",
+    "channel": "fanduel sports network north",
+    "title": "fanduel sports network north",
     "url": "https://dlhd.dad/stream/stream-898.php"
   },
   {
-    "channel": "fanduel sports network ohio",
-    "title": "fanduel sports network ohio",
+    "channel": "FanDuel Sports Network Ohio",
+    "title": "FanDuel Sports Network Ohio",
     "url": "https://dlhd.dad/stream/stream-899.php"
   },
   {
@@ -2825,18 +2790,18 @@
     "url": "https://topembed.pw/channel/FanDuelSportsOhio[USA]"
   },
   {
-    "channel": "FanDuel Sports Network Oklahoma",
-    "title": "FanDuel Sports Network Oklahoma",
+    "channel": "fanduel sports network oklahoma",
+    "title": "fanduel sports network oklahoma",
     "url": "https://dlhd.dad/stream/stream-900.php"
   },
   {
-    "channel": "FanDuel Sports Network SoCal",
-    "title": "FanDuel Sports Network SoCal",
+    "channel": "fanduel sports network socal",
+    "title": "fanduel sports network socal",
     "url": "https://dlhd.dad/stream/stream-902.php"
   },
   {
-    "channel": "FanDuel Sports Network South",
-    "title": "FanDuel Sports Network South",
+    "channel": "fanduel sports network south",
+    "title": "fanduel sports network south",
     "url": "https://dlhd.dad/stream/stream-903.php"
   },
   {
@@ -2860,8 +2825,8 @@
     "url": "https://dlhd.dad/stream/stream-906.php"
   },
   {
-    "channel": "FanDuel Sports Network Wisconsin",
-    "title": "FanDuel Sports Network Wisconsin",
+    "channel": "fanduel sports network wisconsin",
+    "title": "fanduel sports network wisconsin",
     "url": "https://dlhd.dad/stream/stream-907.php"
   },
   {
@@ -2902,7 +2867,7 @@
   {
     "channel": "flohockey",
     "title": "flohockey",
-    "url": "https://dlhd.dad/stream/stream-108.php"
+    "url": "https://dlhd.dad/stream/stream-164.php"
   },
   {
     "channel": "Fox Business",
@@ -2913,11 +2878,6 @@
     "channel": "Fox Cricket",
     "title": "Fox Cricket",
     "url": "https://dlhd.dad/stream/stream-369.php"
-  },
-  {
-    "channel": "fox deportes",
-    "title": "fox deportes",
-    "url": "https://dlhd.dad/stream/stream-643.php"
   },
   {
     "channel": "FOX Deportes USA",
@@ -2990,8 +2950,8 @@
     "url": "https://antenasport.top/fox1.php"
   },
   {
-    "channel": "fox sports 2 argentina",
-    "title": "fox sports 2 argentina",
+    "channel": "Fox Sports 2 Argentina",
+    "title": "Fox Sports 2 Argentina",
     "url": "https://dlhd.dad/stream/stream-788.php"
   },
   {
@@ -3120,8 +3080,8 @@
     "url": "https://topembed.pw/channel/Fox507[Australia]"
   },
   {
-    "channel": "fox sports argentina",
-    "title": "fox sports argentina",
+    "channel": "Fox Sports Argentina",
+    "title": "Fox Sports Argentina",
     "url": "https://dlhd.dad/stream/stream-787.php"
   },
   {
@@ -3175,8 +3135,8 @@
     "url": "https://dlhd.dad/stream/stream-951.php"
   },
   {
-    "channel": "france 4",
-    "title": "france 4",
+    "channel": "France 4",
+    "title": "France 4",
     "url": "https://dlhd.dad/stream/stream-952.php"
   },
   {
@@ -3200,11 +3160,6 @@
     "url": "https://dlhd.dad/stream/stream-279.php"
   },
   {
-    "channel": "futv",
-    "title": "futv",
-    "url": "https://dlhd.dad/stream/stream-1.php"
-  },
-  {
     "channel": "FX Movie Channel",
     "title": "FX Movie Channel",
     "url": "https://dlhd.dad/stream/stream-381.php"
@@ -3215,8 +3170,8 @@
     "url": "https://dlhd.dad/stream/stream-317.php"
   },
   {
-    "channel": "fxx usa",
-    "title": "fxx usa",
+    "channel": "FXX USA",
+    "title": "FXX USA",
     "url": "https://dlhd.dad/stream/stream-298.php"
   },
   {
@@ -3227,11 +3182,6 @@
   {
     "channel": "FYI",
     "title": "FYI",
-    "url": "https://dlhd.dad/stream/stream-665.php"
-  },
-  {
-    "channel": "fyi usa",
-    "title": "fyi usa",
     "url": "https://dlhd.dad/stream/stream-665.php"
   },
   {
@@ -3345,8 +3295,8 @@
     "url": "https://dlhd.dad/stream/stream-693.php"
   },
   {
-    "channel": "HBO USA",
-    "title": "HBO USA",
+    "channel": "hbo usa",
+    "title": "hbo usa",
     "url": "https://dlhd.dad/stream/stream-321.php"
   },
   {
@@ -3405,11 +3355,6 @@
     "url": "https://dlhd.dad/stream/stream-553.php"
   },
   {
-    "channel": "hub premier",
-    "title": "hub premier",
-    "url": "https://dlhd.dad/stream/stream-7.php"
-  },
-  {
     "channel": "id usa",
     "title": "id usa",
     "url": "https://dlhd.dad/stream/stream-324.php"
@@ -3420,8 +3365,8 @@
     "url": "https://dlhd.dad/stream/stream-656.php"
   },
   {
-    "channel": "indosiar",
-    "title": "indosiar",
+    "channel": "Indosiar",
+    "title": "Indosiar",
     "url": "https://dlhd.dad/stream/stream-1.php"
   },
   {
@@ -3438,6 +3383,11 @@
     "channel": "ION USA",
     "title": "ION USA",
     "url": "https://dlhd.dad/stream/stream-325.php"
+  },
+  {
+    "channel": "italia 1 it",
+    "title": "italia 1 it",
+    "url": "https://dlhd.dad/stream/stream-854.php"
   },
   {
     "channel": "Italia 1 Italy",
@@ -3545,16 +3495,6 @@
     "url": "https://dlhd.dad/stream/stream-539.php"
   },
   {
-    "channel": "laliga tv hypermotion",
-    "title": "laliga tv hypermotion",
-    "url": "https://dlhd.dad/stream/stream-539.php"
-  },
-  {
-    "channel": "laliga tv uk",
-    "title": "laliga tv uk",
-    "url": "https://dlhd.dad/stream/stream-276.php"
-  },
-  {
     "channel": "LaLigaTV UK",
     "title": "LaLigaTV UK",
     "url": "https://dlhd.dad/stream/stream-276.php"
@@ -3615,11 +3555,6 @@
     "url": "https://dlhd.dad/stream/stream-849.php"
   },
   {
-    "channel": "m+ laliga tv",
-    "title": "m+ laliga tv",
-    "url": "https://dlhd.dad/stream/stream-84.php"
-  },
-  {
     "channel": "m4 sport hungary",
     "title": "m4 sport hungary",
     "url": "https://dlhd.dad/stream/stream-265.php"
@@ -3633,6 +3568,66 @@
     "channel": "M6 France",
     "title": "M6 France",
     "url": "https://dlhd.dad/stream/stream-470.php"
+  },
+  {
+    "channel": "magenta sport 301",
+    "title": "magenta sport 301",
+    "url": "https://dlhd.dad/stream/stream-10.php"
+  },
+  {
+    "channel": "magenta sport 302",
+    "title": "magenta sport 302",
+    "url": "https://dlhd.dad/stream/stream-14.php"
+  },
+  {
+    "channel": "magenta sport 303",
+    "title": "magenta sport 303",
+    "url": "https://dlhd.dad/stream/stream-13.php"
+  },
+  {
+    "channel": "magenta sport 304",
+    "title": "magenta sport 304",
+    "url": "https://dlhd.dad/stream/stream-15.php"
+  },
+  {
+    "channel": "magenta sport 305",
+    "title": "magenta sport 305",
+    "url": "https://dlhd.dad/stream/stream-12.php"
+  },
+  {
+    "channel": "magenta sport 306",
+    "title": "magenta sport 306",
+    "url": "https://dlhd.dad/stream/stream-16.php"
+  },
+  {
+    "channel": "magenta sport 307",
+    "title": "magenta sport 307",
+    "url": "https://dlhd.dad/stream/stream-17.php"
+  },
+  {
+    "channel": "magenta sport 308",
+    "title": "magenta sport 308",
+    "url": "https://dlhd.dad/stream/stream-11.php"
+  },
+  {
+    "channel": "magenta sport 309",
+    "title": "magenta sport 309",
+    "url": "https://dlhd.dad/stream/stream-5.php"
+  },
+  {
+    "channel": "magenta sport 310",
+    "title": "magenta sport 310",
+    "url": "https://dlhd.dad/stream/stream-6.php"
+  },
+  {
+    "channel": "magenta sport 311",
+    "title": "magenta sport 311",
+    "url": "https://dlhd.dad/stream/stream-7.php"
+  },
+  {
+    "channel": "magenta sport 312",
+    "title": "magenta sport 312",
+    "url": "https://dlhd.dad/stream/stream-8.php"
   },
   {
     "channel": "magnolia network",
@@ -3700,11 +3695,6 @@
     "url": "https://antenasport.top/match3.php"
   },
   {
-    "channel": "match premier russia",
-    "title": "match premier russia",
-    "url": "https://dlhd.dad/stream/stream-572.php"
-  },
-  {
     "channel": "Match Premier Russia",
     "title": "Match Premier Russia",
     "url": "https://dlhd.dad/stream/stream-573.php"
@@ -3740,19 +3730,9 @@
     "url": "https://dlhd.dad/stream/stream-136.php"
   },
   {
-    "channel": "match! football 2 russia",
-    "title": "match! football 2 russia",
-    "url": "https://dlhd.dad/stream/stream-137.php"
-  },
-  {
-    "channel": "match! football 3 russia",
-    "title": "match! football 3 russia",
-    "url": "https://dlhd.dad/stream/stream-138.php"
-  },
-  {
     "channel": "match! igra russia",
     "title": "match! igra russia",
-    "url": "https://dlhd.dad/stream/stream-19.php"
+    "url": "https://dlhd.dad/stream/stream-21.php"
   },
   {
     "channel": "MAVTV USA",
@@ -3770,8 +3750,8 @@
     "url": "https://dlhd.dad/stream/stream-472.php"
   },
   {
-    "channel": "max sport 1 croatia",
-    "title": "max sport 1 croatia",
+    "channel": "Max Sport 1 Croatia",
+    "title": "Max Sport 1 Croatia",
     "url": "https://dlhd.dad/stream/stream-779.php"
   },
   {
@@ -3820,8 +3800,8 @@
     "url": "https://topembed.pw/channel/MLBNetwork[USA]"
   },
   {
-    "channel": "Monumental Sports Network",
-    "title": "Monumental Sports Network",
+    "channel": "monumental sports network",
+    "title": "monumental sports network",
     "url": "https://dlhd.dad/stream/stream-778.php"
   },
   {
@@ -3870,8 +3850,8 @@
     "url": "https://antenasport.top/movistar4.php"
   },
   {
-    "channel": "Movistar Deportes Spain",
-    "title": "Movistar Deportes Spain",
+    "channel": "movistar deportes spain",
+    "title": "movistar deportes spain",
     "url": "https://dlhd.dad/stream/stream-436.php"
   },
   {
@@ -3900,8 +3880,8 @@
     "url": "https://antenasport.top/movistarliga1.php"
   },
   {
-    "channel": "movistar liga de campeones",
-    "title": "movistar liga de campeones",
+    "channel": "Movistar Liga de Campeones",
+    "title": "Movistar Liga de Campeones",
     "url": "https://dlhd.dad/stream/stream-435.php"
   },
   {
@@ -3945,8 +3925,8 @@
     "url": "https://dlhd.dad/stream/stream-367.php"
   },
   {
-    "channel": "MTV USA",
-    "title": "MTV USA",
+    "channel": "mtv usa",
+    "title": "mtv usa",
     "url": "https://dlhd.dad/stream/stream-371.php"
   },
   {
@@ -3955,8 +3935,8 @@
     "url": "https://dlhd.dad/stream/stream-749.php"
   },
   {
-    "channel": "MUTV UK",
-    "title": "MUTV UK",
+    "channel": "mutv uk",
+    "title": "mutv uk",
     "url": "https://dlhd.dad/stream/stream-377.php"
   },
   {
@@ -3975,8 +3955,8 @@
     "url": "https://dlhd.dad/stream/stream-745.php"
   },
   {
-    "channel": "National Geographic (NGC)",
-    "title": "National Geographic (NGC)",
+    "channel": "national geographic (ngc)",
+    "title": "national geographic (ngc)",
     "url": "https://dlhd.dad/stream/stream-328.php"
   },
   {
@@ -4045,8 +4025,8 @@
     "url": "https://topembed.pw/channel/NBCSPhiladelphia[USA]"
   },
   {
-    "channel": "NBC Universo",
-    "title": "NBC Universo",
+    "channel": "nbc universo",
+    "title": "nbc universo",
     "url": "https://dlhd.dad/stream/stream-845.php"
   },
   {
@@ -4055,8 +4035,8 @@
     "url": "https://antenasport.top/nbcuniverso.php"
   },
   {
-    "channel": "NBC USA",
-    "title": "NBC USA",
+    "channel": "nbc usa",
+    "title": "nbc usa",
     "url": "https://dlhd.dad/stream/stream-53.php"
   },
   {
@@ -4080,14 +4060,14 @@
     "url": "https://dlhd.dad/stream/stream-769.php"
   },
   {
-    "channel": "nbcs boston usa",
-    "title": "nbcs boston usa",
-    "url": "https://dlhd.dad/stream/stream-754.php"
+    "channel": "nbcs california",
+    "title": "nbcs california",
+    "url": "https://dlhd.dad/stream/stream-755.php"
   },
   {
-    "channel": "nbcs philadelphia",
-    "title": "nbcs philadelphia",
-    "url": "https://dlhd.dad/stream/stream-777.php"
+    "channel": "nbcs california usa",
+    "title": "nbcs california usa",
+    "url": "https://dlhd.dad/stream/stream-755.php"
   },
   {
     "channel": "NDR DE",
@@ -4103,11 +4083,6 @@
     "channel": "NESN USA",
     "title": "NESN USA",
     "url": "https://topembed.pw/channel/NESN[USA]"
-  },
-  {
-    "channel": "netflix ppv",
-    "title": "netflix ppv",
-    "url": "https://dlhd.dad/stream/stream-12.php"
   },
   {
     "channel": "Newsmax USA",
@@ -4130,6 +4105,11 @@
     "url": "https://topembed.pw/channel/NFLNetwork[USA]"
   },
   {
+    "channel": "nfl network usa",
+    "title": "nfl network usa",
+    "url": "https://dlhd.dad/stream/stream-405.php"
+  },
+  {
     "channel": "NFL RedZone",
     "title": "NFL RedZone",
     "url": "https://dlhd.dad/stream/stream-667.php"
@@ -4145,8 +4125,8 @@
     "url": "https://dlhd.dad/stream/stream-9.php"
   },
   {
-    "channel": "nhl network usa",
-    "title": "nhl network usa",
+    "channel": "NHL Network USA",
+    "title": "NHL Network USA",
     "url": "https://dlhd.dad/stream/stream-663.php"
   },
   {
@@ -4205,8 +4185,8 @@
     "url": "https://antenasport.top/novasport1cz.php"
   },
   {
-    "channel": "Nova Sport 2 CZ",
-    "title": "Nova Sport 2 CZ",
+    "channel": "nova sport 2 cz",
+    "title": "nova sport 2 cz",
     "url": "https://dlhd.dad/stream/stream-1022.php"
   },
   {
@@ -4260,8 +4240,8 @@
     "url": "https://dlhd.dad/stream/stream-1062.php"
   },
   {
-    "channel": "nova sport 6 cz",
-    "title": "nova sport 6 cz",
+    "channel": "Nova Sport 6 CZ",
+    "title": "Nova Sport 6 CZ",
     "url": "https://dlhd.dad/stream/stream-1026.php"
   },
   {
@@ -4270,8 +4250,8 @@
     "url": "https://antenasport.top/novasport6cz.php"
   },
   {
-    "channel": "Nova Sport Bulgaria",
-    "title": "Nova Sport Bulgaria",
+    "channel": "nova sport bulgaria",
+    "title": "nova sport bulgaria",
     "url": "https://dlhd.dad/stream/stream-468.php"
   },
   {
@@ -4280,8 +4260,8 @@
     "url": "https://dlhd.dad/stream/stream-582.php"
   },
   {
-    "channel": "nova sports 1 greece",
-    "title": "nova sports 1 greece",
+    "channel": "Nova Sports 1 Greece",
+    "title": "Nova Sports 1 Greece",
     "url": "https://dlhd.dad/stream/stream-631.php"
   },
   {
@@ -4295,8 +4275,8 @@
     "url": "https://antenasport.top/novasport1gr.php"
   },
   {
-    "channel": "Nova Sports 2 Greece",
-    "title": "Nova Sports 2 Greece",
+    "channel": "nova sports 2 greece",
+    "title": "nova sports 2 greece",
     "url": "https://dlhd.dad/stream/stream-632.php"
   },
   {
@@ -4310,8 +4290,8 @@
     "url": "https://antenasport.top/novasport2gr.php"
   },
   {
-    "channel": "Nova Sports 3 Greece",
-    "title": "Nova Sports 3 Greece",
+    "channel": "nova sports 3 greece",
+    "title": "nova sports 3 greece",
     "url": "https://dlhd.dad/stream/stream-633.php"
   },
   {
@@ -4325,8 +4305,8 @@
     "url": "https://antenasport.top/novasport3gr.php"
   },
   {
-    "channel": "Nova Sports 4 Greece",
-    "title": "Nova Sports 4 Greece",
+    "channel": "nova sports 4 greece",
+    "title": "nova sports 4 greece",
     "url": "https://dlhd.dad/stream/stream-634.php"
   },
   {
@@ -4340,8 +4320,8 @@
     "url": "https://antenasport.top/novasport4gr.php"
   },
   {
-    "channel": "Nova Sports 5 Greece",
-    "title": "Nova Sports 5 Greece",
+    "channel": "nova sports 5 greece",
+    "title": "nova sports 5 greece",
     "url": "https://dlhd.dad/stream/stream-635.php"
   },
   {
@@ -4375,8 +4355,8 @@
     "url": "https://dlhd.dad/stream/stream-639.php"
   },
   {
-    "channel": "nova sports premier league greece",
-    "title": "nova sports premier league greece",
+    "channel": "Nova Sports Premier League Greece",
+    "title": "Nova Sports Premier League Greece",
     "url": "https://dlhd.dad/stream/stream-599.php"
   },
   {
@@ -4385,8 +4365,8 @@
     "url": "https://antenasport.top/novasportpremier.php"
   },
   {
-    "channel": "Nova Sports Prime Greece",
-    "title": "Nova Sports Prime Greece",
+    "channel": "nova sports prime greece",
+    "title": "nova sports prime greece",
     "url": "https://dlhd.dad/stream/stream-638.php"
   },
   {
@@ -4435,8 +4415,8 @@
     "url": "https://dlhd.dad/stream/stream-542.php"
   },
   {
-    "channel": "Oneplay Sport 1 CZ",
-    "title": "Oneplay Sport 1 CZ",
+    "channel": "oneplay sport 1 cz",
+    "title": "oneplay sport 1 cz",
     "url": "https://dlhd.dad/stream/stream-1027.php"
   },
   {
@@ -4465,8 +4445,13 @@
     "url": "https://antenasport.top/oneplaysport3.php"
   },
   {
-    "channel": "OnTime Sports",
-    "title": "OnTime Sports",
+    "channel": "oneplay sport 4 cz",
+    "title": "oneplay sport 4 cz",
+    "url": "https://dlhd.dad/stream/stream-1038.php"
+  },
+  {
+    "channel": "ontime sports",
+    "title": "ontime sports",
     "url": "https://dlhd.dad/stream/stream-611.php"
   },
   {
@@ -4515,11 +4500,6 @@
     "url": "https://topembed.pw/channel/OrangeSport4[Romania]"
   },
   {
-    "channel": "orf sport+",
-    "title": "orf sport+",
-    "url": "https://dlhd.dad/stream/stream-14.php"
-  },
-  {
     "channel": "outdoor channel usa",
     "title": "outdoor channel usa",
     "url": "https://dlhd.dad/stream/stream-848.php"
@@ -4528,6 +4508,11 @@
     "channel": "Outdoor Channel USA",
     "title": "Outdoor Channel USA",
     "url": "https://topembed.pw/channel/OutdoorChannel[USA]"
+  },
+  {
+    "channel": "ovistar liga de campeones",
+    "title": "ovistar liga de campeones",
+    "url": "https://dlhd.dad/stream/stream-435.php"
   },
   {
     "channel": "Oxygen True Crime",
@@ -4540,14 +4525,14 @@
     "url": "https://dlhd.dad/stream/stream-287.php"
   },
   {
+    "channel": "paramaount+",
+    "title": "paramaount+",
+    "url": "https://dlhd.dad/stream/stream-164.php"
+  },
+  {
     "channel": "Paramount Network",
     "title": "Paramount Network",
     "url": "https://dlhd.dad/stream/stream-334.php"
-  },
-  {
-    "channel": "paramount+",
-    "title": "paramount+",
-    "url": "https://dlhd.dad/stream/stream-21.php"
   },
   {
     "channel": "pbs usa",
@@ -4555,8 +4540,8 @@
     "url": "https://dlhd.dad/stream/stream-210.php"
   },
   {
-    "channel": "PDC TV",
-    "title": "PDC TV",
+    "channel": "pdc tv",
+    "title": "pdc tv",
     "url": "https://dlhd.dad/stream/stream-43.php"
   },
   {
@@ -4565,9 +4550,9 @@
     "url": "https://topembed.pw/channel/PDCTV[USA]"
   },
   {
-    "channel": "peacock feed",
-    "title": "peacock feed",
-    "url": "https://dlhd.dad/stream/stream-8.php"
+    "channel": "peacock",
+    "title": "peacock",
+    "url": "https://dlhd.dad/stream/stream-69.php"
   },
   {
     "channel": "Polsat Film Poland",
@@ -4600,8 +4585,8 @@
     "url": "https://antenasport.top/polsatsport2.php"
   },
   {
-    "channel": "Polsat Sport 3 Poland",
-    "title": "Polsat Sport 3 Poland",
+    "channel": "polsat sport 3 poland",
+    "title": "polsat sport 3 poland",
     "url": "https://dlhd.dad/stream/stream-129.php"
   },
   {
@@ -4615,9 +4600,9 @@
     "url": "https://dlhd.dad/stream/stream-994.php"
   },
   {
-    "channel": "polsat sport fight poland",
-    "title": "polsat sport fight poland",
-    "url": "https://dlhd.dad/stream/stream-997.php"
+    "channel": "polsat sport extra 4 poland",
+    "title": "polsat sport extra 4 poland",
+    "url": "https://dlhd.dad/stream/stream-996.php"
   },
   {
     "channel": "Polsat Sport Poland",
@@ -4628,6 +4613,16 @@
     "channel": "Polsat Sport Poland",
     "title": "Polsat Sport Poland",
     "url": "https://antenasport.top/polsatsport1.php"
+  },
+  {
+    "channel": "polsat sport premium 1 poland",
+    "title": "polsat sport premium 1 poland",
+    "url": "https://dlhd.dad/stream/stream-991.php"
+  },
+  {
+    "channel": "polsat sport premium 2 poland",
+    "title": "polsat sport premium 2 poland",
+    "url": "https://dlhd.dad/stream/stream-992.php"
   },
   {
     "channel": "POP TV USA",
@@ -4680,6 +4675,11 @@
     "url": "https://dlhd.dad/stream/stream-771.php"
   },
   {
+    "channel": "premier sports 2 ireland",
+    "title": "premier sports 2 ireland",
+    "url": "https://dlhd.dad/stream/stream-799.php"
+  },
+  {
     "channel": "Premier Sports Ireland 1",
     "title": "Premier Sports Ireland 1",
     "url": "https://dlhd.dad/stream/stream-771.php"
@@ -4715,11 +4715,6 @@
     "url": "https://antenasport.top/primasport1.php"
   },
   {
-    "channel": "prima sport 1 romania",
-    "title": "prima sport 1 romania",
-    "url": "https://dlhd.dad/stream/stream-583.php"
-  },
-  {
     "channel": "Prima Sport 2",
     "title": "Prima Sport 2",
     "url": "https://dlhd.dad/stream/stream-584.php"
@@ -4735,11 +4730,6 @@
     "url": "https://antenasport.top/primasport2.php"
   },
   {
-    "channel": "prima sport 2 romania",
-    "title": "prima sport 2 romania",
-    "url": "https://dlhd.dad/stream/stream-584.php"
-  },
-  {
     "channel": "Prima Sport 3",
     "title": "Prima Sport 3",
     "url": "https://dlhd.dad/stream/stream-585.php"
@@ -4753,11 +4743,6 @@
     "channel": "Prima Sport 3",
     "title": "Prima Sport 3",
     "url": "https://antenasport.top/primasport3.php"
-  },
-  {
-    "channel": "prima sport 3 romania",
-    "title": "prima sport 3 romania",
-    "url": "https://dlhd.dad/stream/stream-585.php"
   },
   {
     "channel": "Prima Sport 4",
@@ -4840,11 +4825,6 @@
     "url": "https://dlhd.dad/stream/stream-858.php"
   },
   {
-    "channel": "rai sport 1 it",
-    "title": "rai sport 1 it",
-    "url": "https://dlhd.dad/stream/stream-882.php"
-  },
-  {
     "channel": "Rai Sport Italy",
     "title": "Rai Sport Italy",
     "url": "https://dlhd.dad/stream/stream-882.php"
@@ -4883,11 +4863,6 @@
     "channel": "Reelz Channel",
     "title": "Reelz Channel",
     "url": "https://dlhd.dad/stream/stream-293.php"
-  },
-  {
-    "channel": "ring bg",
-    "title": "ring bg",
-    "url": "https://dlhd.dad/stream/stream-471.php"
   },
   {
     "channel": "Ring Bulgaria",
@@ -4938,6 +4913,11 @@
     "channel": "RTE 2",
     "title": "RTE 2",
     "url": "https://topembed.pw/channel/RTETwo[Ireland]"
+  },
+  {
+    "channel": "rtl croatia",
+    "title": "rtl croatia",
+    "url": "https://dlhd.dad/stream/stream-9.php"
   },
   {
     "channel": "RTL DE",
@@ -5000,8 +4980,8 @@
     "url": "https://topembed.pw/channel/SECNetwork[USA]"
   },
   {
-    "channel": "see denmark",
-    "title": "see denmark",
+    "channel": "SEE Denmark",
+    "title": "SEE Denmark",
     "url": "https://dlhd.dad/stream/stream-811.php"
   },
   {
@@ -5250,11 +5230,6 @@
     "url": "https://antenasport.top/sky1nz.php"
   },
   {
-    "channel": "sky sport 2 de",
-    "title": "sky sport 2 de",
-    "url": "https://dlhd.dad/stream/stream-18.php"
-  },
-  {
     "channel": "sky sport 2 nz",
     "title": "sky sport 2 nz",
     "url": "https://dlhd.dad/stream/stream-589.php"
@@ -5275,23 +5250,8 @@
     "url": "https://dlhd.dad/stream/stream-869.php"
   },
   {
-    "channel": "sky sport 251 it",
-    "title": "sky sport 251 it",
-    "url": "https://dlhd.dad/stream/stream-6.php"
-  },
-  {
-    "channel": "sky sport 252 it",
-    "title": "sky sport 252 it",
-    "url": "https://dlhd.dad/stream/stream-4.php"
-  },
-  {
-    "channel": "sky sport 253 it",
-    "title": "sky sport 253 it",
-    "url": "https://dlhd.dad/stream/stream-5.php"
-  },
-  {
-    "channel": "sky sport 3 nz",
-    "title": "sky sport 3 nz",
+    "channel": "Sky Sport 3 NZ",
+    "title": "Sky Sport 3 NZ",
     "url": "https://dlhd.dad/stream/stream-590.php"
   },
   {
@@ -5365,8 +5325,8 @@
     "url": "https://antenasport.top/sky7nz.php"
   },
   {
-    "channel": "sky sport 8 nz",
-    "title": "sky sport 8 nz",
+    "channel": "Sky Sport 8 NZ",
+    "title": "Sky Sport 8 NZ",
     "url": "https://dlhd.dad/stream/stream-595.php"
   },
   {
@@ -5425,6 +5385,11 @@
     "url": "https://dlhd.dad/stream/stream-875.php"
   },
   {
+    "channel": "sky sport bundesliga 1",
+    "title": "sky sport bundesliga 1",
+    "url": "https://dlhd.dad/stream/stream-558.php"
+  },
+  {
     "channel": "Sky Sport Bundesliga 1 HD",
     "title": "Sky Sport Bundesliga 1 HD",
     "url": "https://dlhd.dad/stream/stream-558.php"
@@ -5440,6 +5405,11 @@
     "url": "https://antenasport.top/sky1de.php"
   },
   {
+    "channel": "sky sport bundesliga 2",
+    "title": "sky sport bundesliga 2",
+    "url": "https://dlhd.dad/stream/stream-2.php"
+  },
+  {
     "channel": "Sky Sport Bundesliga 2",
     "title": "Sky Sport Bundesliga 2",
     "url": "https://dlhd.dad/stream/stream-946.php"
@@ -5453,6 +5423,11 @@
     "channel": "Sky Sport Bundesliga 2",
     "title": "Sky Sport Bundesliga 2",
     "url": "https://antenasport.top/sky2de.php"
+  },
+  {
+    "channel": "sky sport bundesliga 3",
+    "title": "sky sport bundesliga 3",
+    "url": "https://dlhd.dad/stream/stream-19.php"
   },
   {
     "channel": "Sky Sport Bundesliga 3",
@@ -5525,13 +5500,8 @@
     "url": "https://topembed.pw/channel/SkySportsF1[Italy]"
   },
   {
-    "channel": "sky sport max it",
-    "title": "sky sport max it",
-    "url": "https://dlhd.dad/stream/stream-460.php"
-  },
-  {
-    "channel": "Sky Sport MAX Italy",
-    "title": "Sky Sport MAX Italy",
+    "channel": "sky sport max italy",
+    "title": "sky sport max italy",
     "url": "https://dlhd.dad/stream/stream-460.php"
   },
   {
@@ -5543,11 +5513,6 @@
     "channel": "Sky Sport MotoGP Italy",
     "title": "Sky Sport MotoGP Italy",
     "url": "https://dlhd.dad/stream/stream-575.php"
-  },
-  {
-    "channel": "sky sport premier league de",
-    "title": "sky sport premier league de",
-    "url": "https://dlhd.dad/stream/stream-9.php"
   },
   {
     "channel": "sky sport select nz",
@@ -5588,11 +5553,6 @@
     "channel": "Sky Sport Top Event DE",
     "title": "Sky Sport Top Event DE",
     "url": "https://antenasport.top/skytopeventde.php"
-  },
-  {
-    "channel": "sky sport uno it",
-    "title": "sky sport uno it",
-    "url": "https://dlhd.dad/stream/stream-461.php"
   },
   {
     "channel": "Sky Sport UNO Italy",
@@ -5695,8 +5655,8 @@
     "url": "https://dlhd.dad/stream/stream-574.php"
   },
   {
-    "channel": "sky sports golf uk",
-    "title": "sky sports golf uk",
+    "channel": "Sky Sports Golf UK",
+    "title": "Sky Sports Golf UK",
     "url": "https://dlhd.dad/stream/stream-70.php"
   },
   {
@@ -5710,8 +5670,8 @@
     "url": "https://antenasport.top/skygolf.php"
   },
   {
-    "channel": "Sky Sports Main Event",
-    "title": "Sky Sports Main Event",
+    "channel": "sky sports main event",
+    "title": "sky sports main event",
     "url": "https://dlhd.dad/stream/stream-38.php"
   },
   {
@@ -5760,11 +5720,6 @@
     "url": "https://topembed.pw/channel/SkySportsPremierLeague[UK]"
   },
   {
-    "channel": "sky sports premier league uk",
-    "title": "sky sports premier league uk",
-    "url": "https://dlhd.dad/stream/stream-130.php"
-  },
-  {
     "channel": "sky sports racing uk",
     "title": "sky sports racing uk",
     "url": "https://dlhd.dad/stream/stream-554.php"
@@ -5802,7 +5757,7 @@
   {
     "channel": "sky sports+",
     "title": "sky sports+",
-    "url": "https://dlhd.dad/stream/stream-36.php"
+    "url": "https://dlhd.dad/stream/stream-55.php"
   },
   {
     "channel": "Sky Sports+ Plus",
@@ -5845,8 +5800,8 @@
     "url": "https://dlhd.dad/stream/stream-887.php"
   },
   {
-    "channel": "space city home network",
-    "title": "space city home network",
+    "channel": "Space City Home Network",
+    "title": "Space City Home Network",
     "url": "https://dlhd.dad/stream/stream-921.php"
   },
   {
@@ -6115,8 +6070,8 @@
     "url": "https://antenasport.top/sport5pt.php"
   },
   {
-    "channel": "sport tv6 portugal",
-    "title": "sport tv6 portugal",
+    "channel": "Sport TV6 Portugal",
+    "title": "Sport TV6 Portugal",
     "url": "https://dlhd.dad/stream/stream-291.php"
   },
   {
@@ -6140,8 +6095,8 @@
     "url": "https://topembed.pw/channel/Sport1[Germany]"
   },
   {
-    "channel": "SPORT1+ DE",
-    "title": "SPORT1+ DE",
+    "channel": "sport1+ de",
+    "title": "sport1+ de",
     "url": "https://dlhd.dad/stream/stream-640.php"
   },
   {
@@ -6153,11 +6108,6 @@
     "channel": "SportDigital Fussball",
     "title": "SportDigital Fussball",
     "url": "https://antenasport.top/sportdigital.php"
-  },
-  {
-    "channel": "sportdigital fussball de",
-    "title": "sportdigital fussball de",
-    "url": "https://dlhd.dad/stream/stream-571.php"
   },
   {
     "channel": "Sportdigital1+ Germany",
@@ -6183,11 +6133,6 @@
     "channel": "sportklub 3 croatia",
     "title": "sportklub 3 croatia",
     "url": "https://dlhd.dad/stream/stream-103.php"
-  },
-  {
-    "channel": "sportklub 5 croatia",
-    "title": "sportklub 5 croatia",
-    "url": "https://dlhd.dad/stream/stream-15.php"
   },
   {
     "channel": "sportsnet 360",
@@ -6255,8 +6200,8 @@
     "url": "https://antenasport.top/sportsnetpacific.php"
   },
   {
-    "channel": "SportsNet Pittsburgh",
-    "title": "SportsNet Pittsburgh",
+    "channel": "sportsnet pittsburgh",
+    "title": "sportsnet pittsburgh",
     "url": "https://dlhd.dad/stream/stream-922.php"
   },
   {
@@ -6285,13 +6230,8 @@
     "url": "https://topembed.pw/channel/SportsnetWorld[Canada]"
   },
   {
-    "channel": "sportv br",
-    "title": "sportv br",
-    "url": "https://dlhd.dad/stream/stream-78.php"
-  },
-  {
-    "channel": "sportv brasil",
-    "title": "sportv brasil",
+    "channel": "SporTV Brasil",
+    "title": "SporTV Brasil",
     "url": "https://dlhd.dad/stream/stream-78.php"
   },
   {
@@ -6313,6 +6253,11 @@
     "channel": "SR Fernsehen DE",
     "title": "SR Fernsehen DE",
     "url": "https://dlhd.dad/stream/stream-739.php"
+  },
+  {
+    "channel": "srf zwei",
+    "title": "srf zwei",
+    "url": "https://dlhd.dad/stream/stream-1.php"
   },
   {
     "channel": "SSC Sport 1",
@@ -6450,6 +6395,16 @@
     "url": "https://dlhd.dad/stream/stream-284.php"
   },
   {
+    "channel": "stv 1 slovenia",
+    "title": "stv 1 slovenia",
+    "url": "https://dlhd.dad/stream/stream-20.php"
+  },
+  {
+    "channel": "stv 2 slovenia",
+    "title": "stv 2 slovenia",
+    "url": "https://dlhd.dad/stream/stream-22.php"
+  },
+  {
     "channel": "Sundance TV",
     "title": "Sundance TV",
     "url": "https://dlhd.dad/stream/stream-658.php"
@@ -6480,8 +6435,8 @@
     "url": "https://topembed.pw/channel/SuperSportCricket[SouthAfrica]"
   },
   {
-    "channel": "supersport football",
-    "title": "supersport football",
+    "channel": "Supersport Football",
+    "title": "Supersport Football",
     "url": "https://dlhd.dad/stream/stream-56.php"
   },
   {
@@ -6510,8 +6465,8 @@
     "url": "https://topembed.pw/channel/SuperSportGrandstand[SouthAfrica]"
   },
   {
-    "channel": "supersport laliga",
-    "title": "supersport laliga",
+    "channel": "SuperSport LaLiga",
+    "title": "SuperSport LaLiga",
     "url": "https://dlhd.dad/stream/stream-415.php"
   },
   {
@@ -6520,8 +6475,8 @@
     "url": "https://topembed.pw/channel/SuperSportLaLiga[SouthAfrica]"
   },
   {
-    "channel": "supersport maximo 1",
-    "title": "supersport maximo 1",
+    "channel": "SuperSport MaXimo 1",
+    "title": "SuperSport MaXimo 1",
     "url": "https://dlhd.dad/stream/stream-572.php"
   },
   {
@@ -6535,8 +6490,8 @@
     "url": "https://topembed.pw/channel/SuperSportMotorsport[SouthAfrica]"
   },
   {
-    "channel": "supersport premier league",
-    "title": "supersport premier league",
+    "channel": "SuperSport Premier league",
+    "title": "SuperSport Premier league",
     "url": "https://dlhd.dad/stream/stream-414.php"
   },
   {
@@ -6545,8 +6500,8 @@
     "url": "https://topembed.pw/channel/SuperSportPremierLeague[SouthAfrica]"
   },
   {
-    "channel": "SuperSport PSL",
-    "title": "SuperSport PSL",
+    "channel": "supersport psl",
+    "title": "supersport psl",
     "url": "https://dlhd.dad/stream/stream-413.php"
   },
   {
@@ -6575,8 +6530,8 @@
     "url": "https://topembed.pw/channel/SuperSportTennis[SouthAfrica]"
   },
   {
-    "channel": "SuperSport Variety 1",
-    "title": "SuperSport Variety 1",
+    "channel": "supersport variety 1",
+    "title": "supersport variety 1",
     "url": "https://dlhd.dad/stream/stream-416.php"
   },
   {
@@ -6595,8 +6550,8 @@
     "url": "https://topembed.pw/channel/SuperSportVariety2[SouthAfrica]"
   },
   {
-    "channel": "SuperSport Variety 3",
-    "title": "SuperSport Variety 3",
+    "channel": "supersport variety 3",
+    "title": "supersport variety 3",
     "url": "https://dlhd.dad/stream/stream-418.php"
   },
   {
@@ -6613,11 +6568,6 @@
     "channel": "SuperSport Variety 4",
     "title": "SuperSport Variety 4",
     "url": "https://topembed.pw/channel/SuperSportVariety4[SouthAfrica]"
-  },
-  {
-    "channel": "supersports action",
-    "title": "supersports action",
-    "url": "https://dlhd.dad/stream/stream-420.php"
   },
   {
     "channel": "SWR DE",
@@ -6640,8 +6590,8 @@
     "url": "https://dlhd.dad/stream/stream-270.php"
   },
   {
-    "channel": "TBS USA",
-    "title": "TBS USA",
+    "channel": "tbs usa",
+    "title": "tbs usa",
     "url": "https://dlhd.dad/stream/stream-336.php"
   },
   {
@@ -6670,13 +6620,8 @@
     "url": "https://topembed.pw/channel/TeleCinco[Spain]"
   },
   {
-    "channel": "teledeporte spain",
-    "title": "teledeporte spain",
-    "url": "https://dlhd.dad/stream/stream-529.php"
-  },
-  {
-    "channel": "Teledeporte Spain (TDP)",
-    "title": "Teledeporte Spain (TDP)",
+    "channel": "teledeporte spain (tdp)",
+    "title": "teledeporte spain (tdp)",
     "url": "https://dlhd.dad/stream/stream-529.php"
   },
   {
@@ -6688,6 +6633,11 @@
     "channel": "Telemundo",
     "title": "Telemundo",
     "url": "https://antenasport.top/telemundo.php"
+  },
+  {
+    "channel": "telemundo usa",
+    "title": "telemundo usa",
+    "url": "https://dlhd.dad/stream/stream-131.php"
   },
   {
     "channel": "Ten Sports PK",
@@ -6712,7 +6662,7 @@
   {
     "channel": "tennis stream",
     "title": "tennis stream",
-    "url": "https://dlhd.dad/stream/stream-1501.php"
+    "url": "https://dlhd.dad/stream/stream-1518.php"
   },
   {
     "channel": "Tennis+ 10",
@@ -6755,8 +6705,8 @@
     "url": "https://dlhd.dad/stream/stream-394.php"
   },
   {
-    "channel": "thmanyah",
-    "title": "thmanyah",
+    "channel": "Thmanyah",
+    "title": "Thmanyah",
     "url": "https://dlhd.dad/stream/stream-2.php"
   },
   {
@@ -6785,8 +6735,8 @@
     "url": "https://dlhd.dad/stream/stream-955.php"
   },
   {
-    "channel": "tnt brasil",
-    "title": "tnt brasil",
+    "channel": "TNT Brasil",
+    "title": "TNT Brasil",
     "url": "https://dlhd.dad/stream/stream-87.php"
   },
   {
@@ -6850,8 +6800,8 @@
     "url": "https://antenasport.top/maxtnt4.php"
   },
   {
-    "channel": "TNT Sports Argentina",
-    "title": "TNT Sports Argentina",
+    "channel": "tnt sports argentina",
+    "title": "tnt sports argentina",
     "url": "https://dlhd.dad/stream/stream-388.php"
   },
   {
@@ -6897,11 +6847,6 @@
   {
     "channel": "TRT Spor TR",
     "title": "TRT Spor TR",
-    "url": "https://dlhd.dad/stream/stream-889.php"
-  },
-  {
-    "channel": "trt spor turkey",
-    "title": "trt spor turkey",
     "url": "https://dlhd.dad/stream/stream-889.php"
   },
   {
@@ -7000,8 +6945,8 @@
     "url": "https://topembed.pw/channel/TUDN[USA]"
   },
   {
-    "channel": "tv one usa",
-    "title": "tv one usa",
+    "channel": "TV ONE USA",
+    "title": "TV ONE USA",
     "url": "https://dlhd.dad/stream/stream-660.php"
   },
   {
@@ -7010,8 +6955,8 @@
     "url": "https://dlhd.dad/stream/stream-807.php"
   },
   {
-    "channel": "tv2 denmark",
-    "title": "tv2 denmark",
+    "channel": "TV2 Denmark",
+    "title": "TV2 Denmark",
     "url": "https://dlhd.dad/stream/stream-817.php"
   },
   {
@@ -7030,8 +6975,8 @@
     "url": "https://antenasport.top/tv2sportdk.php"
   },
   {
-    "channel": "tv2 sport x denmark",
-    "title": "tv2 sport x denmark",
+    "channel": "TV2 Sport X Denmark",
+    "title": "TV2 Sport X Denmark",
     "url": "https://dlhd.dad/stream/stream-808.php"
   },
   {
@@ -7080,11 +7025,6 @@
     "url": "https://dlhd.dad/stream/stream-747.php"
   },
   {
-    "channel": "tv4 fotball",
-    "title": "tv4 fotball",
-    "url": "https://dlhd.dad/stream/stream-747.php"
-  },
-  {
     "channel": "TV4 Hockey",
     "title": "TV4 Hockey",
     "url": "https://dlhd.dad/stream/stream-700.php"
@@ -7100,8 +7040,8 @@
     "url": "https://dlhd.dad/stream/stream-702.php"
   },
   {
-    "channel": "tv4 sport live 1",
-    "title": "tv4 sport live 1",
+    "channel": "TV4 Sport Live 1",
+    "title": "TV4 Sport Live 1",
     "url": "https://dlhd.dad/stream/stream-703.php"
   },
   {
@@ -7200,8 +7140,8 @@
     "url": "https://dlhd.dad/stream/stream-452.php"
   },
   {
-    "channel": "TVP Sport Poland",
-    "title": "TVP Sport Poland",
+    "channel": "tvp sport poland",
+    "title": "tvp sport poland",
     "url": "https://dlhd.dad/stream/stream-128.php"
   },
   {
@@ -7245,8 +7185,8 @@
     "url": "https://topembed.pw/channel/Univision[USA]"
   },
   {
-    "channel": "usa network",
-    "title": "usa network",
+    "channel": "USA Network",
+    "title": "USA Network",
     "url": "https://dlhd.dad/stream/stream-343.php"
   },
   {
@@ -7272,7 +7212,7 @@
   {
     "channel": "v sport football",
     "title": "v sport football",
-    "url": "https://dlhd.dad/stream/stream-11.php"
+    "url": "https://dlhd.dad/stream/stream-3.php"
   },
   {
     "channel": "V Sport Motor Sweden",
@@ -7282,7 +7222,7 @@
   {
     "channel": "v sport premium",
     "title": "v sport premium",
-    "url": "https://dlhd.dad/stream/stream-10.php"
+    "url": "https://dlhd.dad/stream/stream-1.php"
   },
   {
     "channel": "Veronica NL Netherland",
@@ -7317,7 +7257,7 @@
   {
     "channel": "viasat vinter",
     "title": "viasat vinter",
-    "url": "https://dlhd.dad/stream/stream-16.php"
+    "url": "https://dlhd.dad/stream/stream-19.php"
   },
   {
     "channel": "VICE TV",
@@ -7510,8 +7450,8 @@
     "url": "https://dlhd.dad/stream/stream-383.php"
   },
   {
-    "channel": "ziggo sport 6 nl",
-    "title": "ziggo sport 6 nl",
+    "channel": "Ziggo Sport 6 NL",
+    "title": "Ziggo Sport 6 NL",
     "url": "https://dlhd.dad/stream/stream-901.php"
   },
   {
@@ -7525,11 +7465,6 @@
     "url": "https://topembed.pw/channel/ZiggoSport[Netherlands]"
   },
   {
-    "channel": "Čt sport cz",
-    "title": "Čt sport cz",
-    "url": "https://dlhd.dad/stream/stream-1033.php"
-  },
-  {
     "channel": "МАТЧ! Igra Russia",
     "title": "МАТЧ! Igra Russia",
     "url": "https://dlhd.dad/stream/stream-24.php"
@@ -7537,7 +7472,7 @@
   {
     "channel": "Матч! Арена",
     "title": "Матч! Арена",
-    "url": "https://dlhd.dad/stream/stream-20.php"
+    "url": "https://dlhd.dad/stream/stream-23.php"
   },
   {
     "channel": "МАТЧ! БОЕЦ Russia",
@@ -7553,5 +7488,10 @@
     "channel": "МАТЧ! БОЕЦ Russia",
     "title": "МАТЧ! БОЕЦ Russia",
     "url": "https://antenasport.top/matchigra.php"
+  },
+  {
+    "channel": "МАТЧ! СТРАНА",
+    "title": "МАТЧ! СТРАНА",
+    "url": "https://dlhd.dad/stream/stream-24.php"
   }
 ]
